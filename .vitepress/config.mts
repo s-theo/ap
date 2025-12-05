@@ -2,42 +2,36 @@ import { defineConfig } from 'vitepress'
 
 import { head, markdown, transformPageData } from './configs'
 
-const code = '<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>'
-
 export default defineConfig({
-  title: '机场评测与推荐',
+  title: '机场测评与推荐',
   lang: 'zh-Hans',
-  description: '机场评测与推荐',
-  appearance: 'force-auto',
+  description: '机场测评与推荐',
+  // appearance: 'force-auto',
   metaChunk: true,
   cleanUrls: true,
   lastUpdated: true, // 上次更新时间戳
   markdown,
-  // sitemap: { hostname: 'https://theojs.cn' },
+  sitemap: { hostname: 'https://www.shadowrocket.cc' },
   srcDir: 'content',
   head,
   transformPageData,
   themeConfig: {
-    // logo: 'https://i.theojs.cn/logo/avatar-mini.webp',
+    logo: {
+      src: 'https://i.theojs.cn/logo/ap_logo.webp',
+      width: 24,
+      height: 24,
+      alt: 'site logo',
+      fetchpriority: 'high'
+    },
     nav: [
-      { text: '所有评测', link: '/qingyunti' },
-      { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' }
+      { text: '机场测评', link: '/qingyunti', activeMatch: '^/(?!summary$).*' },
+      { text: '机场汇总', link: '/summary', activeMatch: '^/summary' },
+      { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' },
+      { text: '科学上网软件使用指南', link: 'https://doc.theojs.cn/serve/antiwall/sunmmary' },
+      { text: '机场去哪儿', link: 'https://jichangdaohang.cc/' },
+      { text: 'Clash 节点分享机场推荐', link: 'https://lashvpns.com/' }
     ],
-    sidebar: [
-      {
-        items: [
-          { text: '青云梯' + code, link: 'qingyunti' },
-          { text: '极连云', link: 'hyperlink' },
-          { text: '星岛梦' + code, link: 'xdm' },
-          { text: 'Galaxy Cloud - 银河云', link: 'galaxy' },
-          { text: 'TNT Cloud' + code, link: 'tnt' },
-          { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' },
-          { text: 'Totoro Cloud - 龙猫云', link: 'totoro' },
-          { text: '小蜜蜂' + code, link: 'bee' },
-          { text: 'OKANC' + code, link: 'okanc' }
-        ]
-      }
-    ],
+
     socialLinks: [{ icon: 'telegram', link: 'https://t.me/s_theo', ariaLabel: 'Telegram' }],
     // 目录设置
     outline: 'deep', // 索引级别

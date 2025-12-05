@@ -1,8 +1,8 @@
 import type { UserConfig } from 'vitepress'
 
-const baseUrl = 'https://theojs.cn'
-const imgUrl = 'https://i.theojs.cn/logo/avatar-mini.webp'
-const defaultOgImage = 'https://i.theojs.cn/logo/theojs-og.webp'
+const baseUrl = 'https://www.shadowrocket.cc'
+const imgUrl = 'https://i.theojs.cn/logo/ap_logo.webp'
+const defaultOgImage = 'https://i.theojs.cn/logo/ap-og.webp'
 
 export const transformPageData: UserConfig['transformPageData'] = (pageData) => {
   // head is an array
@@ -12,17 +12,18 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
   const DynamicUrl = `${baseUrl}/${pageData.relativePath}`.replace(/index\.md$/, '').replace(/\.md$/, '')
 
   // title
-  const title =
-    `${pageData.frontmatter?.hero?.name} ${pageData.frontmatter?.hero?.text}` || pageData.title || 'Theo Homepage'
+  const title = pageData.frontmatter?.hero?.name || pageData.title || '机场测评与推荐'
 
   // description
-  const description = pageData.frontmatter?.hero?.tagline || pageData.description || 'Homepage'
+  const description = pageData.frontmatter?.hero?.tagline || pageData.description || '机场测评与推荐'
 
   // modified_time
   const modified_time = pageData.lastUpdated ? new Date(pageData.lastUpdated).toISOString() : new Date().toISOString()
 
   // og:image
-  const ogImageEntry = pageData.frontmatter.head.find((item) => item[0] === 'meta' && item[1]?.property === 'og:image')
+  const ogImageEntry = pageData.frontmatter.head.find(
+    (item: any) => item[0] === 'meta' && item[1]?.property === 'og:image'
+  )
   const ogImage = ogImageEntry?.[1]?.content || defaultOgImage
 
   // json-ld
@@ -33,10 +34,10 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
         '@type': 'WebSite',
         url: baseUrl + '/',
         inLanguage: 'zh-Hans',
-        author: { '@type': 'Person', name: 'Theo', url: baseUrl },
+        author: { '@type': 'Person', name: '机场测评与推荐', url: baseUrl },
         publisher: {
           '@type': 'Organization',
-          name: 'Theo',
+          name: '机场测评与推荐',
           logo: { '@type': 'ImageObject', url: imgUrl }
         },
         description: description,
@@ -47,10 +48,10 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
         '@type': 'BlogPosting',
         headline: title,
         inLanguage: 'zh-Hans',
-        author: { '@type': 'Person', name: 'Theo', url: baseUrl },
+        author: { '@type': 'Person', name: '机场测评与推荐', url: baseUrl },
         publisher: {
           '@type': 'Organization',
-          name: 'Theo',
+          name: '机场测评与推荐',
           logo: { '@type': 'ImageObject', url: imgUrl }
         },
         mainEntityOfPage: DynamicUrl,
@@ -66,9 +67,9 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
     ['meta', { property: 'og:url', content: DynamicUrl }],
     ['meta', { property: 'og:image', content: ogImage }],
     ['meta', { property: 'og:description', content: description }],
-    ['meta', { property: 'twitter:title', content: title }],
-    ['meta', { property: 'twitter:image', content: ogImage }],
-    ['meta', { property: 'twitter:description', content: description }],
+    ['meta', { name: 'twitter:title', content: title }],
+    ['meta', { name: 'twitter:image', content: ogImage }],
+    ['meta', { name: 'twitter:description', content: description }],
     ['meta', { property: 'article:published_time', content: '2020-07-21T08:17:36.000Z' }],
     ['meta', { property: 'article:modified_time', content: modified_time }],
     ['script', { type: 'application/ld+json' }, JSON.stringify(jsonLd)]
