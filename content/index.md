@@ -41,4 +41,8 @@ features:
   - title: 星岛梦 - 速度快到劈出火花！全线原生专线，不限速体验
     details: 全线路接入 企业级 IPLC 专线，全节点 x1 倍率，晚高峰依旧稳如老狗，2.5Gbps 极速传输。看 4K、刷 TikTok、用 ChatGPT、Netflix、Disney+、YouTube——全程丝滑不卡顿！
     link: /xdm
+
+  - title: onlyrabbit - 唯兔云
+    details: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量，支持支付宝微信usdt
+    link: /onlyrabbit
 ---

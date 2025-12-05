@@ -34,7 +34,8 @@ export default defineConfig({
           { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' },
           { text: 'Totoro Cloud - 龙猫云', link: 'totoro' },
           { text: '小蜜蜂' + code, link: 'bee' },
-          { text: 'OKANC' + code, link: 'okanc' }
+          { text: 'OKANC' + code, link: 'okanc' },
+          { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' }
         ]
       }
     ],
