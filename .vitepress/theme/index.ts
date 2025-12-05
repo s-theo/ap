@@ -26,11 +26,11 @@ export default {
   },
 
   enhanceApp: ({ app }: EnhanceAppContext) => {
-    // lm.umamiAnalytics({
-    //   id: import.meta.env.VITE_UMAMI_ID,
-    //   src: import.meta.env.VITE_UMAMI_SRC,
-    //   domains: 'doc.theojs.cn'
-    // })
+    lm.umamiAnalytics({
+      id: import.meta.env.VITE_UMAMI_ID,
+      src: import.meta.env.VITE_UMAMI_SRC,
+      domains: 'ap.itheo.top'
+    })
     app.component('Home', lm.Underline)
     app.component('Pill', lm.Pill)
     app.component('Links', lm.Links)
