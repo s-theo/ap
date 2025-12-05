@@ -13,7 +13,7 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true, // 上次更新时间戳
   markdown,
-  // sitemap: { hostname: 'https://theojs.cn' },
+  sitemap: { hostname: 'https://ap.itheo.top' },
   srcDir: 'content',
   head,
   transformPageData,
