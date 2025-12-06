@@ -11,6 +11,7 @@ export const head: HeadConfig[] = [
   ['meta', { property: 'og:locale', content: 'zh-Hans' }],
   ['meta', { property: 'og:site_name', content: '机场推荐与评测' }],
   ['meta', { name: 'twitter:card', content: 'summary' }],
+  ['meta', { name: 'google-site-verification', content: 'oQ4FeE7qcmwIaIH_Vnbr8z4v9uZI5GgGHrPZd0deka0' }],
   [
     'meta',
     {
