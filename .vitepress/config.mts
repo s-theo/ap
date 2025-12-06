@@ -20,11 +20,12 @@ export default defineConfig({
   themeConfig: {
     // logo: 'https://i.theojs.cn/logo/avatar-mini.webp',
     nav: [
-      { text: '所有评测', link: '/qingyunti' },
+      { text: '所有评测', link: '/qingyunti', activeMatch: '^/' },
       { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' }
     ],
     sidebar: [
       {
+        base: '/',
         items: [
           { text: '青云梯' + code, link: 'qingyunti' },
           { text: '极连云', link: 'hyperlink' },
