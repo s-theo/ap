@@ -1,7 +1,7 @@
 import type { HeadConfig } from 'vitepress'
 
 export const head: HeadConfig[] = [
-  // ['link', { rel: 'icon', href: 'https://i.theojs.cn/logo/avatar-mini.webp' }],
+  ['link', { rel: 'icon', href: 'https://i.theojs.cn/logo/ap_logo.webp' }],
   ['meta', { name: 'msapplication-TileColor', content: '#da532c' }],
   ['meta', { name: 'theme-color', content: '#ffffff' }],
   ['meta', { name: 'author', content: 'Theo' }],

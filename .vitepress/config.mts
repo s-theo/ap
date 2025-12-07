@@ -8,7 +8,7 @@ export default defineConfig({
   title: '机场评测与推荐',
   lang: 'zh-Hans',
   description: '机场评测与推荐',
-  appearance: 'force-auto',
+  // appearance: 'force-auto',
   metaChunk: true,
   cleanUrls: true,
   lastUpdated: true, // 上次更新时间戳
@@ -18,7 +18,13 @@ export default defineConfig({
   head,
   transformPageData,
   themeConfig: {
-    // logo: 'https://i.theojs.cn/logo/avatar-mini.webp',
+    logo: {
+      src: 'https://i.theojs.cn/logo/ap_logo.webp',
+      width: 24,
+      height: 24,
+      alt: 'site logo',
+      fetchpriority: 'high'
+    },
     nav: [
       { text: '所有评测', link: '/qingyunti', activeMatch: '^/' },
       { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' }
