@@ -2,8 +2,14 @@
 layout: home
 navbar: true
 hero:
-  name: 机场测速和简介
+  name: 机场评测与推荐
   tagline: 机场的测速和一些介绍
+  # image:
+  #   src: 'https://i.theojs.cn/logo/ap_logo.webp?2'
+  #   alt: site logo
+  #   fetchpriority: high
+  #   width: 320
+  #   height: 320
 
 features:
   - title: 青云梯 - 6年老牌一线IPLC专线性价比拉满
