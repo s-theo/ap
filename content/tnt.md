@@ -28,7 +28,7 @@ description: TNT Cloud 提供稳定高速的科学上网服务，支持多平台
   :grid="2"
   :items="[
     {
-      image: { src: 'https://i.theojs.cn/docs/TNT.webp', crop: true },
+      image: { src: 'https://i.theojs.cn/logo/TNT.webp', crop: true },
       name: 'TNT Cloud 特惠活动开启',
       link: 'https://itheo.top/tnt',
       rel: 'sponsored noreferrer'
@@ -36,7 +36,7 @@ description: TNT Cloud 提供稳定高速的科学上网服务，支持多平台
   ]"
 />
 
-## TNT Cloud简介 <Pill :image="{ src: 'https://i.theojs.cn/docs/TNT.webp', crop: true }" name="TNT Cloud官网" link="https://itheo.top/tnt" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: TNT80" text="TNT80" bold /><Copy type="tip" label="点击复制折扣码: TNT85" text="TNT85" bold />
+## TNT Cloud简介 <Pill :image="{ src: 'https://i.theojs.cn/logo/TNT.webp', crop: true }" name="TNT Cloud官网" link="https://itheo.top/tnt" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: TNT80" text="TNT80" bold /><Copy type="tip" label="点击复制折扣码: TNT85" text="TNT85" bold />
 
 IPLC内网专线机场，原生 IP 节点，服务稳定可靠，是老牌机场的分站团队，也是海外团队，有专业的客服团队。全天在线维护客户，所有套餐不限速无倍率，所有套餐只有流量区别，有特色的季付限量包，低至10元每月，专门为用量小的用户设计（30元/季度，60G/月）
 
