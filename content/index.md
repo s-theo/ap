@@ -42,7 +42,7 @@ features:
     link: /okanc
     linkText: 查看更多
 
-  - title: <img src="https://i.theojs.cn/docs/TNT.webp" width="24" height="24" alt="TNT Cloud logo" /> TNT Cloud
+  - title: <img src="https://i.theojs.cn/logo/TNT.webp" width="24" height="24" alt="TNT Cloud logo" /> TNT Cloud
     details: TNT Cloud 提供稳定高速的科学上网服务，支持多平台设备，解锁奈飞 Netflix、HBO Max、Disney+ 等主流流媒体，适用于出国服务、流媒体加速以及个人和企业定制化解决方案，保障连接安全稳定，畅享高速体验。
     link: /tnt
     linkText: 查看更多
