@@ -34,7 +34,7 @@ export default defineConfig({
         base: '/',
         items: [
           { text: '青云梯' + code, link: 'qingyunti' },
-          { text: '极连云', link: 'hyperlink' },
+          { text: 'hyperlink - 极连云' + code, link: 'hyperlink' },
           { text: '星岛梦' + code, link: 'xdm' },
           { text: 'Galaxy Cloud - 银河云', link: 'galaxy' },
           { text: 'TNT Cloud' + code, link: 'tnt' },
