@@ -13,7 +13,29 @@ head:
 
 <!--@include: ./tip.md-->
 
-<!-- :::tip 银河云 618大促活动开启!
+:::tip Galaxy Cloud - 银河云双旦优惠活动!
+
+- 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold />
+- 结算时输入折扣码即可享受折扣。每位用户不限使用次数。优惠券可叠加套餐本身优惠，享受折上折。节日福利火热进行中，快来解锁你的折扣吧！
+
+**特别注意: 年付小包不参加本次活动**
+
+:::
+
+<Links
+  :grid="2"
+  :items="[
+    {
+     image: { src: 'https://i.theojs.cn/logo/galaxy_transparent_square.webp', crop: true },
+      name: 'Galaxy Cloud - 银河云双旦优惠活动!',
+      desc: '即日起 ～ 2026 年 1 月 30 日 23:59',
+      link: 'https://itheo.top/yhy',
+      rel: 'sponsored noreferrer'
+    }
+  ]"
+/>
+
+<!-- :::tip 银河云 双旦特惠!
 
 - 月/季/半年付 85折 , 折扣码：**`wuyi85`**
 - 年付8折（站内折上折，高达64折 ）折扣码：**`wuyi80`**
@@ -21,9 +43,9 @@ head:
 
 **特别注意: 银河云年付小包与不限时包不支持**
 
-::: -->
+:::
 
-<!-- <Links
+<Links
   :grid="2"
   :items="[
     {
@@ -36,9 +58,7 @@ head:
   ]"
 /> -->
 
-## 银河云 简介 <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer" />
-
-<!-- <Copy type="tip" label="点击复制折扣码: 1180" text="1180" bold /> -->
+## 银河云 简介 <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold />
 
 **Galaxy Cloud - 银河云** 采用IEPL trojan专线机场，成立与2024年6月，新加坡海外团队大机房产品，性价比专线，24h在线客服，专业且靠谱稳定，任何线路问题都是1h内修复处理，支持退款。
 

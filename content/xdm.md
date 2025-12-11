@@ -36,7 +36,7 @@ head:
     {
       image: 'https://i.theojs.cn/logo/xdm_logo.webp',
       name: '星岛梦开服全场 64 折进行中!',
-      desc: '即日至2025年12月27日23点59分',
+      desc: '即日至2026年1月3日23点59分',
       link: 'https://itheo.top/xdm',
       rel: 'sponsored noreferrer'
     }
@@ -58,7 +58,7 @@ head:
 
 ## 星岛梦 价格表
 
-**支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
+**支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
 ::: tip
 年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
@@ -83,8 +83,16 @@ head:
 
 ![星岛梦 流媒体解锁图 =688x](https://i.theojs.cn/airport/xdm_unlock.webp)
 
-![星岛梦 东北辽宁移动晚高峰测速图 =688x](https://i.theojs.cn/airport/xdm_liaoning_mobile.webp)
+![星岛梦 东北辽宁移动测速图 =688x](https://i.theojs.cn/airport/xdm_liaoning_mobile.webp)
 
-![星岛梦 东北辽宁电信晚高峰测速图 =688x](https://i.theojs.cn/airport/xdm_liaoning_telecom.webp)
+![星岛梦 东北辽宁电信测速图 =688x](https://i.theojs.cn/airport/xdm_liaoning_telecom.webp)
 
-![星岛梦 陕西联通晚高峰测速图 =688x](https://i.theojs.cn/airport/xdm_shaanxi_unicom.webp)
+![星岛梦 陕西联通测速图 =688x](https://i.theojs.cn/airport/xdm_shaanxi_unicom_2.webp)
+
+![星岛梦 珠海联通测速图 =688x](https://i.theojs.cn/airport/xdm_zhuhai_unicom.webp)
+
+![星岛梦 陕西联通测速图 =688x](https://i.theojs.cn/airport/xdm_liaoning_telecom.webp)
+
+![星岛梦 深圳电信测速图 =688x](https://i.theojs.cn/airport/xdm_shaanxi_unicom.webp)
+
+![星岛梦 上海移动测速图 =688x](https://i.theojs.cn/airport/xdm_zhuhai_unicom.webp)
