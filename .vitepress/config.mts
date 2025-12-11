@@ -5,9 +5,9 @@ import { head, markdown, transformPageData } from './configs'
 const code = '<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>'
 
 export default defineConfig({
-  title: '机场评测与推荐',
+  title: '机场测评与推荐',
   lang: 'zh-Hans',
-  description: '机场评测与推荐',
+  description: '机场测评与推荐',
   // appearance: 'force-auto',
   metaChunk: true,
   cleanUrls: true,
@@ -26,7 +26,7 @@ export default defineConfig({
       fetchpriority: 'high'
     },
     nav: [
-      { text: '所有评测', link: '/qingyunti', activeMatch: '^/' },
+      { text: '所有测评', link: '/qingyunti', activeMatch: '^/' },
       { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' }
     ],
     sidebar: [

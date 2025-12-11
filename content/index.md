@@ -2,7 +2,7 @@
 layout: home
 navbar: true
 hero:
-  name: 机场评测与推荐
+  name: 机场测评与推荐
   tagline: 机场的测速和一些介绍
   # image:
   #   src: 'https://i.theojs.cn/logo/ap_logo.webp?2'

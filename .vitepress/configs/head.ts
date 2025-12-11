@@ -6,10 +6,10 @@ export const head: HeadConfig[] = [
   ['meta', { name: 'theme-color', content: '#ffffff' }],
   ['meta', { name: 'author', content: 'Theo' }],
   ['meta', { name: 'copyright', content: 'Theo' }],
-  ['meta', { name: 'apple-mobile-web-app-title', content: '机场推荐与评测' }],
+  ['meta', { name: 'apple-mobile-web-app-title', content: '机场推荐与测评' }],
   ['meta', { property: 'og:type', content: 'website' }],
   ['meta', { property: 'og:locale', content: 'zh-Hans' }],
-  ['meta', { property: 'og:site_name', content: '机场推荐与评测' }],
+  ['meta', { property: 'og:site_name', content: '机场推荐与测评' }],
   ['meta', { name: 'twitter:card', content: 'summary' }],
   ['meta', { name: 'google-site-verification', content: 'oQ4FeE7qcmwIaIH_Vnbr8z4v9uZI5GgGHrPZd0deka0' }],
   [

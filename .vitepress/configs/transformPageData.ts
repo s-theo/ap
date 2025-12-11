@@ -12,10 +12,10 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
   const DynamicUrl = `${baseUrl}/${pageData.relativePath}`.replace(/index\.md$/, '').replace(/\.md$/, '')
 
   // title
-  const title = pageData.frontmatter?.hero?.name || pageData.title || '机场评测与推荐'
+  const title = pageData.frontmatter?.hero?.name || pageData.title || '机场测评与推荐'
 
   // description
-  const description = pageData.frontmatter?.hero?.tagline || pageData.description || '机场评测与推荐'
+  const description = pageData.frontmatter?.hero?.tagline || pageData.description || '机场测评与推荐'
 
   // modified_time
   const modified_time = pageData.lastUpdated ? new Date(pageData.lastUpdated).toISOString() : new Date().toISOString()
@@ -34,10 +34,10 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
         '@type': 'WebSite',
         url: baseUrl + '/',
         inLanguage: 'zh-Hans',
-        author: { '@type': 'Person', name: '机场评测与推荐', url: baseUrl },
+        author: { '@type': 'Person', name: '机场测评与推荐', url: baseUrl },
         publisher: {
           '@type': 'Organization',
-          name: '机场评测与推荐',
+          name: '机场测评与推荐',
           logo: { '@type': 'ImageObject', url: imgUrl }
         },
         description: description,
@@ -48,10 +48,10 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
         '@type': 'BlogPosting',
         headline: title,
         inLanguage: 'zh-Hans',
-        author: { '@type': 'Person', name: '机场评测与推荐', url: baseUrl },
+        author: { '@type': 'Person', name: '机场测评与推荐', url: baseUrl },
         publisher: {
           '@type': 'Organization',
-          name: '机场评测与推荐',
+          name: '机场测评与推荐',
           logo: { '@type': 'ImageObject', url: imgUrl }
         },
         mainEntityOfPage: DynamicUrl,
