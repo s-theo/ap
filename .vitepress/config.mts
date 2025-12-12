@@ -42,7 +42,8 @@ export default defineConfig({
           { text: 'Totoro Cloud - 龙猫云', link: 'totoro' },
           { text: '小蜜蜂' + code, link: 'bee' },
           { text: 'OKANC' + code, link: 'okanc' },
-          { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' }
+          { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' },
+          { text: 'FatCat Cloud - 肥猫云' + code, link: 'fatcat' }
         ]
       }
     ],

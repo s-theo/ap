@@ -61,6 +61,11 @@ features:
     details: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量，支持支付宝微信usdt
     link: /onlyrabbit
     linkText: 查看更多
+
+  - title: <img src="https://i.theojs.cn/logo/fclogo.webp" width="24" height="24" alt="FatCat Cloud - 肥猫云" /> FatCat Cloud - 肥猫云
+    details: 企业级的IEPL（国际以太网专线）或IPLC（国际私用租用线路）内网专线进行数据传输 。能有效应对网络波动和高峰期拥堵。原生IP解锁流媒体，包括Netflix、Disney+、HBO、HUGO等等解锁Tiktok，解锁ChatGPT、Copilot、Gemini等AI工具全局负载均衡、动态加速晚高峰不限速，敏感期间不影响
+    link: /fatcat
+    linkText: 查看更多
 ---
 
 <style>

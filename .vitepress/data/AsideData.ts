@@ -107,6 +107,12 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/totoro',
     rel: 'sponsored noreferrer'
   },
+  {
+    image: 'https://i.theojs.cn/logo/fclogo.webp',
+    promo: 'FatCat Cloud - 肥猫云',
+    link: 'https://itheo.top/fatcat',
+    rel: 'sponsored noreferrer'
+  },
   // {
   //   image: 'https://i.theojs.cn/logo/bee_logo.webp',
   //   promo: '小蜜蜂',
