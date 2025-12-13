@@ -27,7 +27,8 @@ export default defineConfig({
     },
     nav: [
       { text: '所有测评', link: '/qingyunti', activeMatch: '^/' },
-      { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' }
+      { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' },
+      { text: '机场去哪儿', link: 'https://jichangdaohang.cc/' }
     ],
     sidebar: [
       {
