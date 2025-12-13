@@ -88,3 +88,5 @@ head:
 ![星岛梦 东北辽宁电信晚高峰测速图 =688x](https://i.theojs.cn/airport/xdm_liaoning_telecom.webp)
 
 ![星岛梦 陕西联通晚高峰测速图 =688x](https://i.theojs.cn/airport/xdm_shaanxi_unicom.webp)
+
+![星岛梦 珠海联通晚高峰测速图 =688x](https://i.theojs.cn/airport/xdm_zhuhai_unicom.webp)

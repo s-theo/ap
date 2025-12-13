@@ -18,7 +18,7 @@ features:
     linkText: 查看更多
 
   - title: <img src="https://i.theojs.cn/logo/hyperlink_logo.webp" width="24" height="24" alt="hyperlink - 极连云 logo" /> hyperlink - 极连云<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
-    details: 企业级IPLC／IEPL专线，智能负载均衡、三网入口优化，保障国内用户连接海外节点的速度和稳定性。节点覆盖香港、日本、新加坡、美国、英国、德国、法国、韩国、马来西亚、泰国、越南、菲律宾等十多个国家或地区。所有节点均标示可解锁流媒体（如 Netflix、Disney+、TikTok、ChatGPT 等），满足影音＋办公双场景。
+    details: 企业级IPLC／IEPL专线，最高支持2500Mbps速率，智能负载均衡、三网入口优化，保障国内用户连接海外节点的速度和稳定性。节点覆盖香港、日本、新加坡、美国、英国、德国、法国、韩国、马来西亚、泰国、越南、菲律宾等十多个国家或地区。所有节点均标示可解锁流媒体（如 Netflix、Disney+、TikTok、ChatGPT 等），满足影音＋办公双场景。
     link: /hyperlink
     linkText: 查看更多
 
@@ -58,7 +58,7 @@ features:
     linkText: 查看更多
 
   - title: <img src="https://i.theojs.cn/logo/onlyrabbit_logo.webp" width="24" height="24" alt="onlyrabbit - 唯兔云 logo" /> onlyrabbit - 唯兔云 <span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
-    details: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量，支持支付宝微信usdt
+    details: 唯兔云IPLC专线，最高支持2500Mbps速率，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量，支持支付宝微信usdt
     link: /onlyrabbit
     linkText: 查看更多
 

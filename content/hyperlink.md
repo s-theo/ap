@@ -55,7 +55,7 @@ description: 极连云 专注提供出海专线加速与流媒体解锁服务的
 
 极连云成立于近期，是一家专注提供出海专线加速与流媒体解锁服务的网络“机场”品牌。
 
-- 采用企业级 **IPLC／IEPL** 专线，并结合**智能负载均衡、三网入口**优化，保障国内用户连接海外节点的速度和稳定性。
+- 采用企业级 **IPLC／IEPL** 专线，最高支持 **2500Mbps** 速率，并结合**智能负载均衡、三网入口**优化，保障国内用户连接海外节点的速度和稳定性。
 - 节点服务器分布广泛，覆盖**香港、日本、新加坡、美国、英国、德国、法国、韩国、马来西亚、泰国、越南、菲律宾**等十多个国家或地区。
 - 支持主流客户端协议**（如 Shadowrocket、Clash、V2Ray、Trojan 等），兼容多平台（iOS、Android、Windows、macOS、路由器）**使用。
 - 面向个人与家庭用户，同时也强调多设备支持，一次账号多端使用，无需为每台设备重复购买。
@@ -112,6 +112,8 @@ description: 极连云 专注提供出海专线加速与流媒体解锁服务的
 
 ![hyperlink - 极连云 珠海联通晚高峰 =688x](https://i.theojs.cn/airport/hyperlink_zhuhai_unicom.webp)
 
-![hyperlink - 极连云 佛山移动晚高峰 =688x](https://i.theojs.cn/airport/hyperlink_foshan_mobile.webp)
+![hyperlink - 极连云 上海移动晚高峰 =688x](https://i.theojs.cn/airport/hyperlink_shanghai_mobile.webp)
+
+![hyperlink - 极连云 上海移动晚高峰 =688x](https://i.theojs.cn/airport/hyperlink_shanghai_mobile@1gbps.webp)
 
 ![hyperlink - 极连云 东北辽宁电信 =688x](https://i.theojs.cn/airport/hyperlink_liaoning_telecom.webp)

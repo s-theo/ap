@@ -48,7 +48,7 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 <!-- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold /> -->
 
-onlyrabbit - 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量
+onlyrabbit - 唯兔云IPLC专线，最高支持 **2500Mbps** 速率，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量
 
 价格惠民，最低6元一个月，专线中的性价比战斗机。
 
@@ -86,8 +86,8 @@ onlyrabbit - 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 ![onlyrabbit - 唯兔云 拓扑图 =688x](https://i.theojs.cn/airport/onlyrabbit_analyze.webp)
 
-<!-- ![onlyrabbit - 唯兔云 流媒体解锁图 =688x](https://i.theojs.cn/airport/onlyrabbit - 唯兔云\_unblock.webp) -->
+![onlyrabbit - 唯兔云 流媒体解锁图 =688x](https://i.theojs.cn/airport/onlyrabbit_unlock.webp)
 
 ![onlyrabbit - 唯兔云 佛山联通晚高峰测速图 =688x](https://i.theojs.cn/airport/onlyrabbit_foshan_unicom.webp)
 
-<!-- ![onlyrabbit - 唯兔云 长沙电信测速图 =688x](https://i.theojs.cn/airport/onlyrabbit - 唯兔云\_changsha_telecom.webp) -->
+![onlyrabbit - 唯兔云 珠海联通晚高峰测速图 =688x](https://i.theojs.cn/airport/onlyrabbit_zhuhai_unicom.webp)
