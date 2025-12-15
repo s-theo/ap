@@ -36,16 +36,16 @@ export default defineConfig({
         items: [
           { text: '青云梯' + code, link: 'qingyunti' },
           { text: 'hyperlink - 极连云' + code, link: 'hyperlink' },
+          { text: 'lightspeed - 光速云' + code, link: 'lightspeed' },
           { text: '星岛梦' + code, link: 'xdm' },
           { text: 'Galaxy Cloud - 银河云', link: 'galaxy' },
           { text: 'TNT Cloud' + code, link: 'tnt' },
-          { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' },
           { text: 'Totoro Cloud - 龙猫云', link: 'totoro' },
           { text: '小蜜蜂' + code, link: 'bee' },
           { text: 'OKANC' + code, link: 'okanc' },
           { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' },
           { text: 'FatCat Cloud - 肥猫云' + code, link: 'fatcat' },
-          { text: 'lightspeed - 光速云' + code, link: 'lightspeed' }
+          { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' }
         ]
       }
     ],

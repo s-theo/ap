@@ -26,11 +26,10 @@ export const Aside_Data: AsideItem = [
     rel: 'sponsored noreferrer'
   },
   {
-    image: 'https://i.theojs.cn/logo/flyingbird.webp',
-    promo: 'FlyingBird 专属优惠',
-    info1: '专属优惠码<span class="promo-text"> 9折: theo </span>',
-    info2: '年付以上<span class="promo-text"> 64折: year85 </span>',
-    link: 'https://itheo.top/flyingbird',
+    image: 'https://i.theojs.cn/logo/lightspeed_logo.webp',
+    promo: 'lightspeed - 光速云特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: ok88</span>',
+    link: 'https://itheo.top/lightspeed',
     rel: 'sponsored noreferrer'
   },
   // {
@@ -78,10 +77,11 @@ export const Aside_Data: AsideItem = [
     rel: 'sponsored noreferrer'
   },
   {
-    image: 'https://i.theojs.cn/logo/lightspeed_logo.webp',
-    promo: 'lightspeed - 光速云特惠',
-    info1: '全场套餐 <span class="promo-text"> 8折: ok88</span>',
-    link: 'https://itheo.top/lightspeed',
+    image: 'https://i.theojs.cn/logo/flyingbird.webp',
+    promo: 'FlyingBird 专属优惠',
+    info1: '专属优惠码<span class="promo-text"> 9折: theo </span>',
+    info2: '年付以上<span class="promo-text"> 64折: year85 </span>',
+    link: 'https://itheo.top/flyingbird',
     rel: 'sponsored noreferrer'
   },
   // {

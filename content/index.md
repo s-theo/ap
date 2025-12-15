@@ -22,14 +22,14 @@ features:
     link: /hyperlink
     linkText: 查看更多
 
+  - title: <img src="https://i.theojs.cn/logo/lightspeed_logo.webp" width="24" height="24" alt="lightspeed - 光速云" /> lightspeed - 光速云 <span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
+    details: 光速云是一家专注于稳定 ·高速 · 专线 · 超高性价比的优质机场。有最低年付99元（相当于月付 8.25 元） / 每月59G（约 0.13元/GB），价格亲民但性能强劲，适合跨境办公、留学生、科研、查资料的轻量用户。也有月付17元/110G（约 0.15元/GB）,适合油管、tk、追剧等重度用户，还有各种套餐等你注册揭晓。
+    link: /lightspeed
+    linkText: 查看更多
+
   - title: <img src="https://i.theojs.cn/logo/bee_logo.webp" width="24" height="24" alt="小蜜蜂 logo" /> 小蜜蜂 <span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
     details: 全IEPL专线机场，原生IP节点，海外团队。有热门小众节点，还有特色年付小包低至8元每月，有不限时的流量包，全天客服在线。提供稳定高速的科学上网服务，支持多平台设备，解锁奈飞 Netflix、HBO Max、Disney+ 等主流流媒体，适用于出国服务、流媒体加速以及个人和企业定制化解决方案，保障连接安全稳定，畅享高速体验。
     link: /bee
-    linkText: 查看更多
-
-  - title: <img src="https://i.theojs.cn/logo/flyingbird.webp" width="24" height="24" alt="FlyingBird - 飞鸟机场 logo" /> FlyingBird - 飞鸟机场 <span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
-    details: 前身是多个老牌机场的融合衍生，主打快速稳定，全专线 IPLC，没有倍率，不限网速，不限客户端并且可以多用户同时使用。海外的 SS 机场，海外团队运营，全专线线路，支持全流媒体解锁，所有节点多服务器负载保证高速稳定。节点目前针对Netflix、Disney、HBO Max、HBO Go、Youtube、Spotify 等流媒体解锁，而且在稳定性方面有保障，速度更快。
-    link: /flyingbird
     linkText: 查看更多
 
   - title: <img src="https://i.theojs.cn/logo/galaxy_transparent_square.webp" width="24" height="24" alt="Galaxy Cloud - 银河云 logo" /> Galaxy Cloud - 银河云
@@ -67,9 +67,9 @@ features:
     link: /fatcat
     linkText: 查看更多
 
-  - title: <img src="https://i.theojs.cn/logo/lightspeed_logo.webp" width="24" height="24" alt="lightspeed - 光速云" /> lightspeed - 光速云 <span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
-    details: 光速云是一家专注于稳定 ·高速 · 专线 · 超高性价比的优质机场。有最低年付99元（相当于月付 8.25 元） / 每月59G（约 0.13元/GB），价格亲民但性能强劲，适合跨境办公、留学生、科研、查资料的轻量用户。也有月付17元/110G（约 0.15元/GB）,适合油管、tk、追剧等重度用户，还有各种套餐等你注册揭晓。
-    link: /lightspeed
+  - title: <img src="https://i.theojs.cn/logo/flyingbird.webp" width="24" height="24" alt="FlyingBird - 飞鸟机场 logo" /> FlyingBird - 飞鸟机场 <span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
+    details: 前身是多个老牌机场的融合衍生，主打快速稳定，全专线 IPLC，没有倍率，不限网速，不限客户端并且可以多用户同时使用。海外的 SS 机场，海外团队运营，全专线线路，支持全流媒体解锁，所有节点多服务器负载保证高速稳定。节点目前针对Netflix、Disney、HBO Max、HBO Go、Youtube、Spotify 等流媒体解锁，而且在稳定性方面有保障，速度更快。
+    link: /flyingbird
     linkText: 查看更多
 ---
 
