@@ -15,6 +15,14 @@ export const head: HeadConfig[] = [
   [
     'meta',
     {
+      name: 'keywords',
+      content:
+        '极连云, JilianCloud, 云加速, 全球加速, IPLC 专线, 低延迟, 多终端接入, 跨境团队, 远程办公, 网络加速, 游戏加速, 视频加速, 青云梯, lightspeed, 光速云, TNT Cloud, Totoro Cloud, 龙猫云, onlyrabbit, 唯兔云, FatCat Cloud, 肥猫云, FlyingBird, 飞鸟机场'
+    }
+  ],
+  [
+    'meta',
+    {
       name: 'robots',
       content: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
     }
