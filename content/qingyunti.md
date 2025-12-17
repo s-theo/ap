@@ -13,16 +13,29 @@ head:
 
 <!--@include: ./tip.md-->
 
-<!-- :::tip 青云梯双十一优惠活动!
+:::tip 青云梯双旦优惠活动!
 
-- 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 10180" text="10180" bold />
+- 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold />
 - 结算时输入折扣码即可享受折扣。每位用户不限使用次数。优惠券可叠加套餐本身优惠，享受折上折。节日福利火热进行中，快来解锁你的折扣吧！
 
 **特别注意: 年付小包不参加本次活动**
 
-::: -->
+:::
 
-:::tip 青云梯 折扣码大放送!
+<Links
+  :grid="2"
+  :items="[
+    {
+      image: 'https://i.theojs.cn/logo/qyt.webp',
+      name: '青云梯青云梯双旦优惠活动!',
+      desc: '即日起 ～ 2026 年 1 月 30 日 23:59',
+      link: 'https://itheo.top/qyt',
+      rel: 'sponsored noreferrer'
+    }
+  ]"
+/>
+
+<!-- :::tip 青云梯 折扣码大放送!
 
 - <Copy type="tip" label="点击复制 85 折折扣码: qyt85" text="qyt85" bold />
 - <Copy type="tip" label="点击复制 8 折折扣码: qyt80" text="qyt80" bold />
@@ -42,9 +55,11 @@ head:
       rel: 'sponsored noreferrer'
     }
   ]"
-/>
+/> -->
 
-## 青云梯 简介 <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: qyt85" text="qyt85" bold /><Copy type="tip" label="点击复制折扣码: qyt80" text="qyt80" bold />
+## 青云梯 简介 <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold />
+
+<!-- <Copy type="tip" label="点击复制折扣码: qyt85" text="qyt85" bold /><Copy type="tip" label="点击复制折扣码: qyt80" text="qyt80" bold /> -->
 
 6年老牌一线机场青云梯采用ss协议，企业级IPLC专线，3网优化，智能负载均衡(**针对不同用户的本地实际网络分配最适合的入口和线路**)，
 

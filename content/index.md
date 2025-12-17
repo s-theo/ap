@@ -67,6 +67,16 @@ features:
     link: /fatcat
     linkText: 查看更多
 
+  - title: <img src="https://i.theojs.cn/logo/naiyun_logo.webp" width="24" height="24" alt="奈云 logo" /> 奈云 <span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
+    details: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节点和Trojan节点，支持的付款方式有微信支付、支付宝，提供奈云机场官网、节点信息、机场参数、套餐价格、机场测速等信息。
+    link: /naiyun
+    linkText: 查看更多
+
+  - title: <img src="https://i.theojs.cn/logo/meile.webp" width="24" height="24" alt="美乐云 logo" /> 美乐云 <span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
+    details: 美乐云为您提供优质快捷高速安全加密全球解锁服务，一键客户端注册即可快速试用！不稳定？卡顿？无法使用？其他产品的困扰，我们通通没有！当您正为其他服务频繁出错而烦恼时，我们承诺：稳定、可靠、随时可用！
+    link: /meile
+    linkText: 查看更多
+
   - title: <img src="https://i.theojs.cn/logo/flyingbird.webp" width="24" height="24" alt="FlyingBird - 飞鸟机场 logo" /> FlyingBird - 飞鸟机场 <span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
     details: 前身是多个老牌机场的融合衍生，主打快速稳定，全专线 IPLC，没有倍率，不限网速，不限客户端并且可以多用户同时使用。海外的 SS 机场，海外团队运营，全专线线路，支持全流媒体解锁，所有节点多服务器负载保证高速稳定。节点目前针对Netflix、Disney、HBO Max、HBO Go、Youtube、Spotify 等流媒体解锁，而且在稳定性方面有保障，速度更快。
     link: /flyingbird
