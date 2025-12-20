@@ -7,7 +7,7 @@ description: FlyingBird 飞鸟机场提供高速稳定的科学上网服务，�
 
 <!--@include: ./tip.md-->
 
-:::tip FlyingBird 飞鸟 专属优惠！
+<!-- :::tip FlyingBird 飞鸟 专属优惠！
 
 - 专属 9 折优惠，<Copy type="tip" label="点击复制折扣码: theo" text="theo" bold />，不限制使用次数，每个用户只能使用一次
 - 年付85折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: year85" text="year85" bold />，可重复使用5次
@@ -24,14 +24,14 @@ description: FlyingBird 飞鸟机场提供高速稳定的科学上网服务，�
       rel: 'sponsored noreferrer'
     }
   ]"
-/>
+/> -->
 
-<!-- :::tip FlyingBird 飞鸟 双十一特惠开启！
+:::tip FlyingBird 飞鸟 双旦特惠开启！
 
-- 月/季/半年付 85折，<Copy type="tip" label="点击复制折扣码: fb25111185" text="fb25111185" bold />，可重复使用5次
-- 年付8折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: fb25111180" text="fb25111180" bold />，可重复使用5次
+- 月/季/半年付 85折，<Copy type="tip" label="点击复制折扣码: fb250085" text="fb250085" bold />，可重复使用5次
+- 年付8折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: fb250080" text="fb250080" bold />，可重复使用5次
 
-**活动时间：即日至2025年11月30日23点59分**
+**活动时间：即日至2026年1月20日23点59分**
 
 :::
 
@@ -40,15 +40,17 @@ description: FlyingBird 飞鸟机场提供高速稳定的科学上网服务，�
   :items="[
     {
       image: 'https://i.theojs.cn/logo/flyingbird.webp',
-      name: 'FlyingBird 飞鸟双十一特惠开启！',
-      desc: '活动时间：即日至2025年11月30日23点59分',
+      name: 'FlyingBird 飞鸟 双旦特惠开启！',
+      desc: '活动时间：即日至2026年1月20日23点59分',
       link: 'https://itheo.top/flyingbird',
       rel: 'sponsored noreferrer'
     }
   ]"
-/> -->
+/>
 
-## FlyingBird 简介 <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer"/><Copy type="tip" label="点击复制折扣码: theo" text="theo" bold /><Copy type="tip" label="点击复制折扣码: year85" text="year85" bold />
+## FlyingBird 简介 <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer"/><Copy type="tip" label="点击复制折扣码: fb250085" text="fb250085" bold /><Copy type="tip" label="点击复制折扣码: fb250080" text="fb250080" bold />
+
+<!-- <Copy type="tip" label="点击复制折扣码: theo" text="theo" bold /><Copy type="tip" label="点击复制折扣码: year85" text="year85" bold /> -->
 
 FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主打快速稳定，全专线 IPLC，没有倍率，不限网速，不限客户端并且可以多用户同时使用**。有着老牌机场的稳定、也有着新晋机场的诚意，目前活动买多少给多少，价格区间比较多，用户的选择比较多。从我自己使用来看，值得推荐为 2025 年的稳定机场。
 
