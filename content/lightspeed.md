@@ -12,7 +12,7 @@ head:
 ![lightspeed - 光速云OG =488x](https://i.theojs.cn/logo/lightspeed_banner2.webp 'lightspeed - 光速云')
 
 <!--@include: ./tip.md-->
-
+<!--
 :::tip 光速云 75 折活动开启!
 
 - **全套餐 75 折**：<Copy type="tip" label="点击复制折扣码: 7575" text="7575" bold />
@@ -29,9 +29,11 @@ head:
       rel: 'sponsored noreferrer'
     }
   ]"
-/>
+/> -->
 
-## lightspeed - 光速云 简介 <Pill image="https://i.theojs.cn/logo/lightspeed_logo.webp" name="光速云官网" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: 7575" text="7575" bold />
+## lightspeed - 光速云 简介 <Pill image="https://i.theojs.cn/logo/lightspeed_logo.webp" name="光速云官网" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" />
+
+<!-- <Copy type="tip" label="点击复制折扣码: 7575" text="7575" bold /> -->
 
 **lightspeed - 光速云** 是一家专注于稳定 ·高速 · 专线 · 超高性价比的优质机场。有最低**年付99元（相当于月付 8.25 元） / 每月59G（约 0.13元/GB）**，价格亲民但性能强劲，适合跨境办公、留学生、科研、查资料的轻量用户。也有**月付17元/110G（约 0.15元/GB）**,适合油管、tk、追剧等重度用户，还有各种套餐等你注册揭晓。
 
