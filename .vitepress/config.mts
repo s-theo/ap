@@ -2,8 +2,6 @@ import { defineConfig } from 'vitepress'
 
 import { head, markdown, transformPageData } from './configs'
 
-const code = '<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>'
-
 export default defineConfig({
   title: '机场测评与推荐',
   lang: 'zh-Hans',
@@ -31,27 +29,7 @@ export default defineConfig({
       { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' },
       { text: '机场去哪儿', link: 'https://jichangdaohang.cc/' }
     ],
-    sidebar: [
-      {
-        base: '/',
-        items: [
-          { text: '青云梯' + code, link: 'qingyunti' },
-          { text: 'hyperlink - 极连云' + code, link: 'hyperlink' },
-          { text: 'lightspeed - 光速云' + code, link: 'lightspeed' },
-          { text: '星岛梦' + code, link: 'xdm' },
-          { text: 'Galaxy Cloud - 银河云' + code, link: 'galaxy' },
-          { text: 'TNT Cloud' + code, link: 'tnt' },
-          { text: 'Totoro Cloud - 龙猫云' + code, link: 'totoro' },
-          { text: '小蜜蜂' + code, link: 'bee' },
-          { text: 'OKANC' + code, link: 'okanc' },
-          { text: '奈云' + code, link: 'naiyun' },
-          { text: '美乐云' + code, link: 'meile' },
-          { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' },
-          { text: 'FatCat Cloud - 肥猫云' + code, link: 'fatcat' },
-          { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' }
-        ]
-      }
-    ],
+
     socialLinks: [{ icon: 'telegram', link: 'https://t.me/s_theo', ariaLabel: 'Telegram' }],
     // 目录设置
     outline: 'deep', // 索引级别
