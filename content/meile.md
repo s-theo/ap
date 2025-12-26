@@ -5,47 +5,26 @@ description: 美乐云为您提供优质快捷高速安全加密全球解锁服�
 
 # 美乐云
 
-<!--@include: ./tip.md-->
-
 :::tip 美乐云 专属优惠!
 
 - <Copy type="tip" label="点击复制 75 折折扣码: ML75" text="ML75" bold />
 
 :::
 
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/meile.webp',
-      name: '美乐云 专属优惠!',
-      link: 'https://itheo.top/meile',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/>
-
 <!-- :::tip 美乐云 折扣码大放送!
 
 - <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold />
 
 :::
+ -->
 
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/meile.webp',
-      name: '美乐云 折扣码大放送!',
-      link: 'https://itheo.top/meile',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/> -->
+## 美乐云注册地址
 
-## 美乐云 简介 <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云官网" link="https://itheo.top/meile" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制 78 折折扣码: 1212" text="1212" bold />
+**最便宜的订阅有12元 128g/月(年付)。**
 
-<!-- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold /> -->
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云官网"  link="https://itheo.top/meile" rel="sponsored noreferrer" />
+
+## 美乐云简介
 
 美乐云采用 trojan/ss协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 
@@ -59,7 +38,7 @@ description: 美乐云为您提供优质快捷高速安全加密全球解锁服�
 - 真人客服实时在线，可为新手用户排忧解难
 - 海外团队，专业运营，全天候维护。
 
-## 价格表
+## 美乐云价格表
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" />
 
@@ -76,10 +55,12 @@ description: 美乐云为您提供优质快捷高速安全加密全球解锁服�
 | **Base套餐** | **128G** | ¥15  | ¥42  |  ¥80   | ¥150 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
 | **Pro套餐**  | **238G** | ¥26  | ¥75  |  ¥150  | ¥260 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
 
-## 美乐云 测速图
+## 美乐云测速图
 
 ![美乐云 拓扑图 =688x](https://i.theojs.cn/airport/meile_fulltest.webp)
 
 ![美乐云 流媒体解锁图 =688x](https://i.theojs.cn/airport/meile_test.webp)
 
 ![美乐云 北京亚马逊测速图 =688x](https://i.theojs.cn/airport/meile_beijing.webp)
+
+<!--@include: ./tip.md-->

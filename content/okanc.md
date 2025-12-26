@@ -5,26 +5,11 @@ description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延�
 
 # OKANC
 
-<!--@include: ./tip.md-->
-
 :::tip OKANC 双十二优惠来袭!
 
 - <Copy type="tip" label="点击复制 78 折折扣码: 1212" text="1212" bold />
 
 :::
-
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/okanc.webp',
-      name: 'OKANC 双十二优惠!',
-      desc: '活动时间：即日至2025年12月31号23点59分',
-      link: 'https://itheo.top/okanc',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/>
 
 <!-- :::tip OKANC 折扣码大放送!
 
@@ -32,21 +17,15 @@ description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延�
 
 :::
 
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/okanc.webp',
-      name: 'OKANC 折扣码大放送!',
-      link: 'https://itheo.top/okanc',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/> -->
+ -->
 
-## OKANC 简介 <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制 78 折折扣码: 1212" text="1212" bold />
+## OKANC注册地址
 
-<!-- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold /> -->
+**最便宜的订阅有38元 328g/月(年付)。**
+
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" />
+
+## OKANC简介
 
 OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 
@@ -79,3 +58,5 @@ OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值�
 ![OKANC 广西移动测速图 =688x](https://i.theojs.cn/airport/okanc_guangxi_mobile.webp)
 
 ![OKANC 长沙电信测速图 =688x](https://i.theojs.cn/airport/okanc_changsha_telecom.webp)
+
+<!--@include: ./tip.md-->

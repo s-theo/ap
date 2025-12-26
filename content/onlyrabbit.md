@@ -5,26 +5,11 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 # onlyrabbit - 唯兔云
 
-<!--@include: ./tip.md-->
-
 :::tip onlyrabbit - 唯兔云 开业特惠!
 
 - <Copy type="tip" label="点击复制 7 折折扣码: rabbitv2" text="rabbitv2" bold />
 
 :::
-
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
-      name: 'onlyrabbit - 唯兔云 开业特惠!',
-      desc: '活动时间：即日至2025年12月31号23时59分',
-      link: 'https://itheo.top/onlyrabbit',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/>
 
 <!-- :::tip onlyrabbit - 唯兔云 折扣码大放送!
 
@@ -32,21 +17,15 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 :::
 
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
-      name: 'onlyrabbit - 唯兔云 折扣码大放送!',
-      link: 'https://itheo.top/onlyrabbit',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/> -->
+ -->
 
-## onlyrabbit - 唯兔云 简介 <Pill image="https://i.theojs.cn/logo/onlyrabbit_logo.webp" name="onlyrabbit - 唯兔云官网" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制 7 折折扣码: rabbitv2" text="rabbitv2" bold />
+## onlyrabbit - 唯兔云注册地址
 
-<!-- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold /> -->
+**最便宜的订阅有6元 45g/月(年付)。**
+
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/onlyrabbit_logo.webp" name="onlyrabbit - 唯兔云官网" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" />
+
+## onlyrabbit - 唯兔云简介
 
 onlyrabbit - 唯兔云IPLC专线，最高支持 **2500Mbps** 速率，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量
 
@@ -64,11 +43,11 @@ onlyrabbit - 唯兔云IPLC专线，最高支持 **2500Mbps** 速率，解锁各�
 - 真人客服实时在线，可为新手用户排忧解难
 - 海外团队，专业运营，全天候维护。
 
-## 价格表
+## onlyrabbit - 唯兔云价格表
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
-### 不限时套餐<Badge type="danger" text="仅限前一万名用户!先到先得!!!"/>
+### onlyrabbit - 唯兔云不限时套餐<Badge type="danger" text="仅限前一万名用户!先到先得!!!"/>
 
 |        套餐类型         |   流量   |  价格   |                                                       套餐购买                                                        |
 | :---------------------: | :------: | :-----: | :-------------------------------------------------------------------------------------------------------------------: |
@@ -82,7 +61,7 @@ onlyrabbit - 唯兔云IPLC专线，最高支持 **2500Mbps** 速率，解锁各�
 | **唯兔云 · 专业版** | **500G**  | ¥59.9  | ¥161.9 | ¥305.9 | ¥547.9  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
 | **唯兔云 · 至尊版** | **1000G** | ¥119.9 | ¥323.9 | ¥611.9 | ¥1150.9 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
 
-## onlyrabbit - 唯兔云 测速图
+## onlyrabbit - 唯兔云测速图
 
 ![onlyrabbit - 唯兔云 拓扑图 =688x](https://i.theojs.cn/airport/onlyrabbit_analyze.webp)
 
@@ -91,3 +70,5 @@ onlyrabbit - 唯兔云IPLC专线，最高支持 **2500Mbps** 速率，解锁各�
 ![onlyrabbit - 唯兔云 佛山联通晚高峰测速图 =688x](https://i.theojs.cn/airport/onlyrabbit_foshan_unicom.webp)
 
 ![onlyrabbit - 唯兔云 珠海联通晚高峰测速图 =688x](https://i.theojs.cn/airport/onlyrabbit_zhuhai_unicom.webp)
+
+<!--@include: ./tip.md-->

@@ -5,8 +5,6 @@ description: TNT Cloud 提供稳定高速的科学上网服务，支持多平台
 
 # TNT Cloud
 
-<!--@include: ./tip.md-->
-
 :::tip TNT 双旦特惠
 
 - 全场8折，<Copy type="tip" label="点击复制折扣码: Merry80" text="Merry80" bold />
@@ -24,20 +22,13 @@ description: TNT Cloud 提供稳定高速的科学上网服务，支持多平台
 
 ::: -->
 
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: { src: 'https://i.theojs.cn/logo/TNT.webp', crop: true },
-      name: 'TNT Cloud 双旦特惠',
-      desc: '活动即日起至2026年1月31日23时59分',
-      link: 'https://itheo.top/tnt',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/>
+## TNT Cloud 注册地址
 
-## TNT Cloud简介 <Pill :image="{ src: 'https://i.theojs.cn/logo/TNT.webp', crop: true }" name="TNT Cloud官网" link="https://itheo.top/tnt" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: Merry80" text="Merry80" bold />
+**最便宜的订阅有8元 60g/月(年付)。**
+
+**点击购买👉👉👉** <Pill :image="{ src: 'https://i.theojs.cn/logo/TNT.webp', crop: true }" name="TNT Cloud官网" link="https://itheo.top/tnt" rel="sponsored noreferrer" />
+
+## TNT Cloud简介
 
 <!-- <Copy type="tip" label="点击复制折扣码: TNT80" text="TNT80" bold /><Copy type="tip" label="点击复制折扣码: TNT85" text="TNT85" bold /> -->
 
@@ -51,7 +42,7 @@ IPLC内网专线机场，原生 IP 节点，服务稳定可靠，是老牌机场
 - 为满足不同人群的需求，我们提供了企业和个人定制业务，包含**跨境电商和tk运营直播的专业服务**
 - 采用**安全加密技术**，可以放心在全球范围内使用。专业客服随时在线，确保问题得到第一时间的解决，体验到贴心的服务
 
-## TNT Cloud 价格表
+## TNT Cloud价格表
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
@@ -67,7 +58,7 @@ IPLC内网专线机场，原生 IP 节点，服务稳定可靠，是老牌机场
 |  **VIP3**  | **460G**  | ¥80  | ¥216 |  ¥408  | ¥768  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/tnt" rel="sponsored noreferrer" /> |
 |  **VIP4**  | **1100G** | ¥160 | ¥432 |  ¥816  | ¥1536 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/tnt" rel="sponsored noreferrer" /> |
 
-## TNT Cloud 测速图
+## TNT Cloud测速图
 
 ![TNT Cloud 拓扑图 =688x](https://i.theojs.cn/airport/tnt_topology.webp)
 
@@ -80,3 +71,5 @@ IPLC内网专线机场，原生 IP 节点，服务稳定可靠，是老牌机场
 ![TNT Cloud 广州移动测速图 =688x](https://i.theojs.cn/airport/tnt_guangzhou_mobile.webp)
 
 ![TNT Cloud 广州电信测速图 =688x](https://i.theojs.cn/airport/tnt_guangzhou_telecom.webp)
+
+<!--@include: ./tip.md-->

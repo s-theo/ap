@@ -10,9 +10,6 @@ head:
 # 青云梯
 
 ![青云梯og =370x](https://i.theojs.cn/logo/qyt_logo.webp '青云梯')
-
-<!--@include: ./tip.md-->
-
 :::tip 青云梯双旦优惠活动!
 
 - 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold />
@@ -21,19 +18,6 @@ head:
 **特别注意: 年付小包不参加本次活动**
 
 :::
-
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/qyt.webp',
-      name: '青云梯青云梯双旦优惠活动!',
-      desc: '即日起 ～ 2026 年 1 月 30 日 23:59',
-      link: 'https://itheo.top/qyt',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/>
 
 <!-- :::tip 青云梯 折扣码大放送!
 
@@ -44,20 +28,15 @@ head:
 **特别注意: 青云梯年付小包不支持**
 
 :::
+-->
 
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/qyt.webp',
-      name: '青云梯折扣码大放送!',
-      link: 'https://itheo.top/qyt',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/> -->
+## 青云梯注册地址
 
-## 青云梯 简介 <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold />
+**最便宜的订阅有8元 60g/月(年付)。**
+
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" />
+
+## 青云梯简介
 
 <!-- <Copy type="tip" label="点击复制折扣码: qyt85" text="qyt85" bold /><Copy type="tip" label="点击复制折扣码: qyt80" text="qyt80" bold /> -->
 
@@ -75,7 +54,7 @@ head:
 - 海外团队，专业运营，全天候维护。
 - 可为电商游戏直播等行业私人订制专属线路套餐
 
-## 青云梯 价格表
+## 青云梯价格表
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
@@ -91,7 +70,7 @@ head:
 |   **VIP3**   | **600G**  | ¥85  | ¥229 |  ¥433  | ¥816  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
 |   **VIP4**   | **1000G** | ¥150 | ¥400 |  ¥750  | ¥1360 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
 
-## 青云梯 测速图
+## 青云梯测速图
 
 ![青云梯 拓扑图 =588x](https://i.theojs.cn/airport/qyt_entrance_new.webp)
 
@@ -102,3 +81,5 @@ head:
 ![青云梯 北京移动单线程@1000M晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_mobile.webp)
 
 ![青云梯 天津联通单线程@1000M晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_unicom.webp)
+
+<!--@include: ./tip.md-->

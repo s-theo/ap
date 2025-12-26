@@ -5,48 +5,26 @@ description: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节�
 
 # 奈云
 
-<!--@include: ./tip.md-->
-
 :::tip 奈云 双十二优惠来袭!
 
 - <Copy type="tip" label="点击复制 78 折折扣码: 1212" text="1212" bold />
 
 :::
 
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
-      name: '奈云 双十二优惠!',
-      desc: '活动时间：即日至2025年12月31号23点59分',
-      link: 'https://itheo.top/naiyun',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/>
-
 <!-- :::tip 奈云 折扣码大放送!
 
 - <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold />
 
 :::
+ -->
 
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
-      name: '奈云 折扣码大放送!',
-      link: 'https://itheo.top/naiyun',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/> -->
+## 奈云注册地址
 
-## 奈云 简介 <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制 78 折折扣码: 1212" text="1212" bold />
+**最便宜的订阅有10元 168g/月(年付)。**
 
-<!-- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold /> -->
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />
+
+## 奈云简介
 
 奈云采用trojan/vmess/ss协议，**2500m** 速率，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 
@@ -60,7 +38,7 @@ description: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节�
 - 真人客服实时在线，可为新手用户排忧解难
 - 海外团队，专业运营，全天候维护。
 
-## 价格表
+## 奈云价格表
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" />
 
@@ -80,10 +58,12 @@ description: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节�
 |     **Pro-进阶套餐**     | **388G** | ¥28  | ¥80  |  ¥150  | ¥280 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
 |     **Max-专业套餐**     | **788G** | ¥49  | ¥138 |  ¥268  | ¥490 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
 
-## 奈云 测速图
+## 奈云测速图
 
 ![奈云 拓扑图 =688x](https://i.theojs.cn/airport/naiyun_analyze.webp)
 
 ![奈云 流媒体解锁图 =688x](https://i.theojs.cn/airport/naiyun_fulltest.webp)
 
 ![奈云 广西移动测速图 =688x](https://i.theojs.cn/airport/naiyun_guangxi_mobile.webp)
+
+<!--@include: ./tip.md-->
