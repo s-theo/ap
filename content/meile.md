@@ -20,11 +20,17 @@ description: 美乐云为您提供优质快捷高速安全加密全球解锁服�
 
 ## 美乐云注册地址
 
+<!-- #region 1 -->
+
 **最便宜的订阅有12元 128g/月(年付)。**
 
 **点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云官网"  link="https://itheo.top/meile" rel="sponsored noreferrer" />
 
+<!-- #endregion 1 -->
+
 ## 美乐云简介
+
+<!-- #region 2 -->
 
 美乐云采用 trojan/ss协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 
@@ -37,23 +43,21 @@ description: 美乐云为您提供优质快捷高速安全加密全球解锁服�
 - 支持**Shdowrocket/Clash/v2rayN/v2rayNG/Surge/Quantumult X/Stash** 等客户端。
 - 真人客服实时在线，可为新手用户排忧解难
 - 海外团队，专业运营，全天候维护。
+<!-- #endregion 2 -->
 
 ## 美乐云价格表
 
+<!-- #region 3 -->
+
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" />
 
-### 不限时套餐(流量用完即止)<Badge type="danger" text="先到先得!!!"/>
+|    套餐类型    | 流量/月  | 月付 | 季付 | 半年付 | 年付 |                                                     套餐购买                                                     |
+| :------------: | :------: | :--: | :--: | :----: | :--: | :--------------------------------------------------------------------------------------------------------------: |
+|  **Base套餐**  | **128G** | ¥15  | ¥42  |  ¥80   | ¥150 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
+|  **Pro套餐**   | **238G** | ¥26  | ¥75  |  ¥150  | ¥260 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
+| **不限时套餐** | **128G** |  -   |  -   |   -    | ¥118 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
 
-|    套餐类型    |   流量   | 价格 |                                                     套餐购买                                                     |
-| :------------: | :------: | :--: | :--------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐** | **128G** | ¥118 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
-
-### 月/季/半年/年付套餐
-
-|   套餐类型   | 流量/月  | 月付 | 季付 | 半年付 | 年付 |                                                     套餐购买                                                     |
-| :----------: | :------: | :--: | :--: | :----: | :--: | :--------------------------------------------------------------------------------------------------------------: |
-| **Base套餐** | **128G** | ¥15  | ¥42  |  ¥80   | ¥150 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
-| **Pro套餐**  | **238G** | ¥26  | ¥75  |  ¥150  | ¥260 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
+<!-- #endregion 3 -->
 
 ## 美乐云测速图
 

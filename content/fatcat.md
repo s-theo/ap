@@ -26,11 +26,17 @@ description: 肥猫云机场-大带宽不限速专线机场接入全球优质机
 
 ## FatCat Cloud - 肥猫云 注册地址
 
+<!-- #region 1 -->
+
 **最便宜的订阅有8元 60g/月(年付)。**
 
 **点击购买👉👉👉** <Pill  image="https://i.theojs.cn/logo/fclogo.webp" name="FatCat Cloud - 肥猫云官网" link="https://itheo.top/fatcat" rel="sponsored noreferrer" />
 
+<!-- #endregion 1-->
+
 ## FatCat Cloud - 肥猫云简介
+
+<!-- #region 2 -->
 
 节点采用企业级的IEPL（国际以太网专线）或IPLC（国际私用租用线路）内网专线进行数据传输 。这种专线连接方式相比普通公网中转线路，具有更高的稳定性和更强的抗干扰、抗封锁能力，能有效应对网络波动和高峰期拥堵。
 
@@ -40,8 +46,11 @@ description: 肥猫云机场-大带宽不限速专线机场接入全球优质机
 - 晚高峰不限速，敏感期间不影响，提供美区id下载**小火箭Shadowrocket**
 - 客户端支持 ： **Clash** **Clash Meta** **Singbox** **v2rayn** **Shadowrocket** 等
 - 节点覆盖 **香港、台湾、日本、新加坡、美国、马来西亚、泰国、英国、巴西、阿根廷** 等地
+<!-- #endregion 2-->
 
 ## FatCat Cloud - 肥猫云价格表
+
+<!-- #region 3 -->
 
 :::tip
 季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
@@ -49,14 +58,15 @@ description: 肥猫云机场-大带宽不限速专线机场接入全球优质机
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
-|          套餐类型           |   流量/月    | 月付 | 季付 | 半年付 | 年付  |                                                     套餐购买                                                      |
-| :-------------------------: | :----------: | :--: | :--: | :----: | :---: | :---------------------------------------------------------------------------------------------------------------: |
-| **BGP线路\*肥猫年付加强版** |   **60G**    |  -   |  -   |   -    |  ¥96  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|    **BGP线路\*基础套餐**    |   **120G**   | ¥20  | ¥54  |  ¥102  | ¥192  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|    **BGP线路\*标准套餐**    |   **300G**   | ¥40  | ¥108 |  ¥204  | ¥384  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|    **BGP线路\*旗舰套餐**    |   **700G**   | ¥100 | ¥270 |  ¥510  | ¥960  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|    **BGP线路\*企业套餐**    |  **1500G**   | ¥180 | ¥486 |  ¥918  | ¥1728 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|      **肥猫专享节点**       | **500G专线** | ¥600 |  -   |   -    |   -   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|          套餐类型           |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                     套餐购买                                                      |
+| :-------------------------: | :-------: | :--: | :--: | :----: | :---: | :---------------------------------------------------------------------------------------------------------------: |
+| **BGP线路\*肥猫年付加强版** |  **60G**  |  -   |  -   |   -    |  ¥96  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|    **BGP线路\*基础套餐**    | **120G**  | ¥20  | ¥54  |  ¥102  | ¥192  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|    **BGP线路\*标准套餐**    | **300G**  | ¥40  | ¥108 |  ¥204  | ¥384  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|    **BGP线路\*旗舰套餐**    | **700G**  | ¥100 | ¥270 |  ¥510  | ¥960  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|    **BGP线路\*企业套餐**    | **1500G** | ¥180 | ¥486 |  ¥918  | ¥1728 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+
+<!-- #endregion 3-->
 
 ## FatCat Cloud - 肥猫云测速图
 

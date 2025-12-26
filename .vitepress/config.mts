@@ -26,7 +26,8 @@ export default defineConfig({
       fetchpriority: 'high'
     },
     nav: [
-      { text: '所有测评', link: '/qingyunti', activeMatch: '^/' },
+      { text: '机场测评', link: '/qingyunti', activeMatch: '^/(?!summary$).*' },
+      { text: '机场汇总', link: '/summary', activeMatch: '^/summary' },
       { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' },
       { text: '机场去哪儿', link: 'https://jichangdaohang.cc/' }
     ],

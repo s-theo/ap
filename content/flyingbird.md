@@ -24,13 +24,19 @@ description: FlyingBird 飞鸟机场提供高速稳定的科学上网服务，�
 
 ## FlyingBird - 飞鸟机场注册地址
 
+<!-- #region 1 -->
+
 **最便宜的订阅有12元 100g/月(年付)。**
 
 **点击购买👉👉👉** <Pill  image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网"  link="https://itheo.top/flyingbird" rel="sponsored noreferrer" />
 
+<!-- #endregion 1 -->
+
 ## FlyingBird - 飞鸟机场简介
 
-FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主打快速稳定，全专线 IPLC，没有倍率，不限网速，不限客户端并且可以多用户同时使用**。有着老牌机场的稳定、也有着新晋机场的诚意，目前活动买多少给多少，价格区间比较多，用户的选择比较多。从我自己使用来看，值得推荐为 2025 年的稳定机场。
+<!-- #region 2 -->
+
+FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主打快速稳定，全专线 IPLC，没有倍率，不限网速，不限客户端并且可以多用户同时使用**。有着老牌机场的稳定、也有着新晋机场的诚意，目前活动买多少给多少，价格区间比较多，用户的选择比较多。从我自己使用来看，值得推荐为 2026 年的稳定机场。
 
 海外的 SS 机场，海外团队运营，全专线线路，支持全流媒体解锁，所有节点多服务器负载保证高速稳定。
 
@@ -42,8 +48,11 @@ FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主�
 - 极其稳定，网络丢包低，可确保 99.9%高可用；
 - 花费划算，虽然使用了昂贵的专线，但售价非常亲民；
 - 安裝便捷、灵便、便捷，支持 **iOS，安卓 Android，Windoors，MAC 苹果电脑，Linux** 等所有平台和系统。
+<!-- #endregion 2 -->
 
 ## FlyingBird - 飞鸟机场价格表
+
+<!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
@@ -57,6 +66,8 @@ FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主�
 | **白银** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
 | **黄金** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
 | **钻石** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
+
+<!-- #endregion 3 -->
 
 ## FlyingBird - 飞鸟机场测速图
 

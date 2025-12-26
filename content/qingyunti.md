@@ -32,13 +32,17 @@ head:
 
 ## 青云梯注册地址
 
+<!-- #region 1 -->
+
 **最便宜的订阅有8元 60g/月(年付)。**
 
 **点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" />
 
+<!-- #endregion 1 -->
+
 ## 青云梯简介
 
-<!-- <Copy type="tip" label="点击复制折扣码: qyt85" text="qyt85" bold /><Copy type="tip" label="点击复制折扣码: qyt80" text="qyt80" bold /> -->
+<!-- #region 2 -->
 
 6年老牌一线机场青云梯采用ss协议，企业级IPLC专线，3网优化，智能负载均衡(**针对不同用户的本地实际网络分配最适合的入口和线路**)，
 
@@ -53,8 +57,11 @@ head:
 - 真人客服实时在线，可为新手用户排忧解难
 - 海外团队，专业运营，全天候维护。
 - 可为电商游戏直播等行业私人订制专属线路套餐
+<!-- #endregion 2 -->
 
 ## 青云梯价格表
+
+<!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
@@ -69,6 +76,8 @@ head:
 |   **VIP2**   | **300G**  | ¥45  | ¥121 |  ¥229  | ¥432  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
 |   **VIP3**   | **600G**  | ¥85  | ¥229 |  ¥433  | ¥816  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
 |   **VIP4**   | **1000G** | ¥150 | ¥400 |  ¥750  | ¥1360 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+
+<!-- #endregion 3 -->
 
 ## 青云梯测速图
 

@@ -19,11 +19,17 @@ head:
 
 ## lightspeed - 光速云注册地址
 
+<!-- #region 1 -->
+
 **最便宜的订阅有8元 59g/月(年付)。**
 
 **点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/lightspeed_logo.webp" name="光速云官网" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" />
 
+<!-- #endregion 1 -->
+
 ## lightspeed - 光速云简介
+
+<!-- #region 2 -->
 
 **lightspeed - 光速云** 是一家专注于稳定 ·高速 · 专线 · 超高性价比的优质机场。有最低**年付99元（相当于月付 8.25 元） / 每月59G（约 0.13元/GB）**，价格亲民但性能强劲，适合跨境办公、留学生、科研、查资料的轻量用户。也有**月付17元/110G（约 0.15元/GB）**,适合油管、tk、追剧等重度用户，还有各种套餐等你注册揭晓。
 
@@ -38,7 +44,11 @@ head:
 
 除此之外，还解锁了诸如**ChatGPT、Tiktok、NBA、WWE等热门应用**，提供更广泛的网络体验。拥有强大的执行力海外技术团队和实时在线客服团队，能够及时维护线路并解决在使用过程中遇到的问题，提供全方位的技术支持和服务保障。
 
+<!-- #endregion 2 -->
+
 ## lightspeed - 光速云价格表
+
+<!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
@@ -48,21 +58,16 @@ head:
 使用 **微信/USDT** 支付请进入官网点击右下角联系客服处理
 ::: -->
 
-### 不限时套餐<Badge type="danger" text="仅限前一万名用户!先到先得!!!"/>
+|      套餐类型       |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                       套餐购买                                                        |
+| :-----------------: | :-------: | :--: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------------------: |
+| **光速云 · 轻量版** |  **59G**  |  -   |  -   |   -    |  ¥99  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+| **光速云 · 极速版** | **110G**  | ¥17  | ¥50  |  ¥90   | ¥160  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+| **光速云 · 流光版** | **220G**  | ¥34  | ¥100 |  ¥180  | ¥320  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+| **光速云 · 量子版** | **450G**  | ¥68  | ¥200 |  ¥375  | ¥667  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+| **光速云 · 无界版** | **900G**  | ¥130 | ¥390 |  ¥702  | ¥1248 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+|   **不限时套餐**    | **1000G** |  -   |  -   |   -    | ¥680  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
 
-|           套餐类型           |   流量    | 价格 |                                                       套餐购买                                                        |
-| :--------------------------: | :-------: | :--: | :-------------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐(流量用完即止)** | **1000G** | ¥680 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
-
-### 月/年付套餐
-
-|      套餐类型       | 流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                       套餐购买                                                        |
-| :-----------------: | :------: | :--: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------------------: |
-| **光速云 · 轻量版** | **59G**  |  -   |  -   |   -    |  ¥99  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
-| **光速云 · 极速版** | **110G** | ¥17  | ¥50  |  ¥90   | ¥160  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
-| **光速云 · 流光版** | **220G** | ¥34  | ¥100 |  ¥180  | ¥320  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
-| **光速云 · 量子版** | **450G** | ¥68  | ¥200 |  ¥375  | ¥667  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
-| **光速云 · 无界版** | **900G** | ¥130 | ¥390 |  ¥702  | ¥1248 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+<!-- #endregion 3 -->
 
 ## lightspeed - 光速云测速图
 

@@ -21,11 +21,17 @@ description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延�
 
 ## OKANC注册地址
 
+<!-- #region 1 -->
+
 **最便宜的订阅有38元 328g/月(年付)。**
 
 **点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" />
 
+<!-- #endregion 1 -->
+
 ## OKANC简介
+
+<!-- #region 2 -->
 
 OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 
@@ -38,8 +44,11 @@ OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值�
 - 支持**Shdowrocket/Clash/v2rayN/v2rayNG/Surge/Quantumult X/Stash** 等客户端。
 - 真人客服实时在线，可为新手用户排忧解难
 - 海外团队，专业运营，全天候维护。
+<!-- #endregion 2 -->
 
-## 价格表
+## OKANC价格表
+
+<!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" />
 
@@ -49,7 +58,9 @@ OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值�
 |    **MAX**     | **600G**  | ¥52  | ¥145 |  ¥285  | ¥499 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
 | **MAX+极致版** | **1024G** | ¥88  | ¥168 |  ¥328  |  -   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
 
-## OKANC 测速图
+<!-- #endregion 3 -->
+
+## OKANC测速图
 
 ![OKANC 拓扑图 =688x](https://i.theojs.cn/airport/okanc_topology.webp)
 
