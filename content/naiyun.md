@@ -5,9 +5,9 @@ description: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节�
 
 # 奈云
 
-:::tip 奈云 双十二优惠来袭!
+:::tip 奈云 新年优惠活动!
 
-- <Copy type="tip" label="点击复制 78 折折扣码: 1212" text="1212" bold />
+- <Copy type="tip" label="点击复制 78 折折扣码: 0101" text="0101" bold />
 
 :::
 
