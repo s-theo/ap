@@ -84,17 +84,17 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/meile',
     rel: 'sponsored noreferrer'
   },
-  {
-    image: 'https://i.theojs.cn/logo/xdm_logo.webp',
-    promo: '星岛梦开服全场 64 折',
-    info1: '全场套餐 <span class="promo-text"> 64折: XDM666</span>',
-    link: 'https://itheo.top/xdm',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/xdm_logo.webp',
+  //   promo: '星岛梦开服全场 64 折',
+  //   info1: '全场套餐 <span class="promo-text"> 64折: XDM666</span>',
+  //   link: 'https://itheo.top/xdm',
+  //   rel: 'sponsored noreferrer'
+  // },
   {
     image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
     promo: 'onlyrabbit-唯兔云开业特惠',
-    info1: '全场套餐 <span class="promo-text"> 7折: rabbitv2</span>',
+    info1: '全场套餐 <span class="promo-text"> 85折: hpny2026</span>',
     link: 'https://itheo.top/onlyrabbit',
     rel: 'sponsored noreferrer'
   },
@@ -168,12 +168,12 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/tnt',
   //   rel: 'sponsored noreferrer'
   // },
-  // {
-  //   image: { src: 'https://i.theojs.cn/logo/xdm_logo.webp' },
-  //   promo: '星岛梦',
-  //   link: 'https://itheo.top/xdm',
-  //   rel: 'sponsored noreferrer'
-  // },
+  {
+    image: { src: 'https://i.theojs.cn/logo/xdm_logo.webp' },
+    promo: '星岛梦',
+    link: 'https://itheo.top/xdm',
+    rel: 'sponsored noreferrer'
+  },
   {
     image: 'https://i.theojs.cn/logo/hero-sms.svg',
     promo: 'Hero-SMS 短信接码',
@@ -181,6 +181,13 @@ export const Aside_Data: AsideItem = [
     info2: '覆盖 <span class="promo-text">200+国家</span> 轻松可用',
     link: 'https://itheo.top/sms',
     rel: 'sponsored noreferrer'
+  },
+  {
+    icon: 'fluent-color:apps-32',
+    name: '科学上网软件使用指南',
+    hide1: '常用网络工具快速上手',
+    hide2: '高级配置与使用技巧',
+    link: 'https://doc.theojs.cn/serve/antiwall/sunmmary'
   },
   {
     icon: { icon: 'cib:netflix', color: '#E50914' },

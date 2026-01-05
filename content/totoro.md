@@ -68,7 +68,7 @@ Totoro Cloud 中文名为龙猫云，一家颇具实力的新机场，Shadowsock
 
 ![龙猫云 南京电信测速图 =688x](https://i.theojs.cn/airport/totoro_nanjing_telecom.webp)
 
-<!--@include: ./tip.md-->
+<!--@include: @/bottom.md-->
 
 ::: info 免责声明
 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。

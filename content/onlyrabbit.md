@@ -7,7 +7,7 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 :::tip onlyrabbit - 唯兔云 开业特惠!
 
-- <Copy type="tip" label="点击复制 7 折折扣码: rabbitv2" text="rabbitv2" bold />
+- <Copy type="tip" label="点击复制 85 折折扣码: hpny2026" text="hpny2026" bold />
 
 :::
 
@@ -79,7 +79,7 @@ onlyrabbit - 唯兔云IPLC专线，最高支持 **2500Mbps** 速率，解锁各�
 
 ![onlyrabbit - 唯兔云 珠海联通晚高峰测速图 =688x](https://i.theojs.cn/airport/onlyrabbit_zhuhai_unicom.webp)
 
-<!--@include: ./tip.md-->
+<!--@include: @/bottom.md-->
 
 ::: info 免责声明
 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。

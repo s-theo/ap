@@ -29,13 +29,13 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 |    [光速云](#光速云)    |     <Pill image="https://i.theojs.cn/logo/lightspeed_logo.webp" name="光速云官网" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" />     |    8元 59g/月    |   ✅   |    ✅    | [查看](./lightspeed.md) |
 |    [星岛梦](#星岛梦)    |            <Pill image="https://i.theojs.cn/logo/xdm_logo.webp" name="星岛梦官网" link="https://itheo.top/xdm" rel="sponsored noreferrer" />            |   12元 100g/月   |   ✅   |    ✅    |    [查看](./xdm.md)     |
 |    [银河云](#银河云)    |    <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer"/>    |    8元 50g/月    |   ✅   |    ✅    |   [查看](./galaxy.md)   |
+|    [美乐云](#美乐云)    |            <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云官网"  link="https://itheo.top/meile" rel="sponsored noreferrer" />            |   12元 128g/月   |   ✅   |    ✅    |   [查看](./meile.md)    |
 | [TNT Cloud](#tnt-cloud) | <Pill :image="{ src: 'https://i.theojs.cn/logo/TNT.webp', crop: true }" name="TNT Cloud官网" link="https://itheo.top/tnt" rel="sponsored noreferrer" /> |    8元 60g/月    |   ❌   |    ✅    |    [查看](./tnt.md)     |
 |    [小蜜蜂](#小蜜蜂)    |            <Pill image="https://i.theojs.cn/logo/bee_logo.webp" name="小蜜蜂官网" link="https://itheo.top/bee" rel="sponsored noreferrer" />            |    8元 60g/月    |   ✅   |    ✅    |    [查看](./bee.md)     |
 |     [OKANC](#okanc)     |             <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" />             |   38元 328g/月   |   ❌   |    ✅    |   [查看](./okanc.md)    |
 |    [唯兔云](#唯兔云)    |     <Pill image="https://i.theojs.cn/logo/onlyrabbit_logo.webp" name="唯兔云官网" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" />     |    6元 45g/月    |   ✅   |    ✅    | [查看](./onlyrabbit.md) |
 |    [肥猫云](#肥猫云)    |           <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云官网" link="https://itheo.top/fatcat" rel="sponsored noreferrer" />            |    8元 60g/月    |   ❌   |    ✅    |   [查看](./fatcat.md)   |
 |      [奈云](#奈云)      |          <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />          |   10元 168g/月   |   ✅   |    ✅    |   [查看](./naiyun.md)   |
-|    [美乐云](#美乐云)    |            <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云官网"  link="https://itheo.top/meile" rel="sponsored noreferrer" />            |   12元 128g/月   |   ✅   |    ✅    |   [查看](./meile.md)    |
 |  [飞鸟机场](#飞鸟机场)  |     <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" />      |   12元 100g/月   |   ❌   |    ✅    | [查看](./flyingbird.md) |
 
 ## 简介
@@ -77,6 +77,14 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 <!--@include: ./galaxy.md#1-->
 <!--@include: ./galaxy.md#2-->
 <!--@include: ./galaxy.md#3-->
+
+---
+
+### 美乐云
+
+<!--@include: ./meile.md#1-->
+<!--@include: ./meile.md#2-->
+<!--@include: ./meile.md#3-->
 
 ---
 
@@ -125,14 +133,6 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 <!--@include: ./naiyun.md#1-->
 <!--@include: ./naiyun.md#2-->
 <!--@include: ./naiyun.md#3-->
-
----
-
-### 美乐云
-
-<!--@include: ./meile.md#1-->
-<!--@include: ./meile.md#2-->
-<!--@include: ./meile.md#3-->
 
 ---
 

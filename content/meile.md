@@ -69,7 +69,7 @@ description: 美乐云为您提供优质快捷高速安全加密全球解锁服�
 
 ![美乐云 北京亚马逊测速图 =688x](https://i.theojs.cn/airport/meile_beijing.webp)
 
-<!--@include: ./tip.md-->
+<!--@include: @/bottom.md-->
 
 ::: info 免责声明
 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。

@@ -27,6 +27,7 @@ export default defineConfig({
       { text: '机场测评', link: '/qingyunti', activeMatch: '^/(?!summary$).*' },
       { text: '机场汇总', link: '/summary', activeMatch: '^/summary' },
       { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' },
+      { text: '科学上网软件使用指南', link: 'https://doc.theojs.cn/serve/antiwall/sunmmary' },
       { text: '机场去哪儿', link: 'https://jichangdaohang.cc/' }
     ],
 

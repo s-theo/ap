@@ -83,7 +83,7 @@ IPLC内网专线机场，原生 IP 节点，服务稳定可靠，是老牌机场
 
 ![TNT Cloud 广州电信测速图 =688x](https://i.theojs.cn/airport/tnt_guangzhou_telecom.webp)
 
-<!--@include: ./tip.md-->
+<!--@include: @/bottom.md-->
 
 ::: info 免责声明
 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
