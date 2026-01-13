@@ -29,7 +29,7 @@ export default {
     lm.umamiAnalytics({
       id: import.meta.env.VITE_UMAMI_ID,
       src: import.meta.env.VITE_UMAMI_SRC,
-      domains: 'ap.itheo.top'
+      domains: 'www.shadowrocket.cc'
     })
     app.component('Home', lm.Underline)
     app.component('Pill', lm.Pill)
