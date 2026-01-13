@@ -1,6 +1,6 @@
 import type { UserConfig } from 'vitepress'
 
-const baseUrl = 'https://ap.itheo.top'
+const baseUrl = 'https://www.shadowrocket.cc'
 const imgUrl = 'https://i.theojs.cn/logo/ap_logo.webp'
 const defaultOgImage = 'https://i.theojs.cn/logo/ap-og.webp'
 

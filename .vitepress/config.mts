@@ -11,7 +11,7 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true, // 上次更新时间戳
   markdown,
-  sitemap: { hostname: 'https://ap.itheo.top' },
+  sitemap: { hostname: 'https://www.shadowrocket.cc' },
   srcDir: 'content',
   head,
   transformPageData,

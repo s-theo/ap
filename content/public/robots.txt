@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ap.itheo.top/sitemap.xml
+Sitemap: https://www.shadowrocket.cc/sitemap.xml
