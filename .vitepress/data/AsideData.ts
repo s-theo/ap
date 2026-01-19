@@ -85,14 +85,6 @@ export const Aside_Data: AsideItem = [
     rel: 'sponsored noreferrer'
   },
   {
-    image: 'https://i.theojs.cn/logo/xdm_logo.webp',
-    promo: '星岛梦(StarDream)特惠',
-    info1: '年付套餐 <span class="promo-text"> 8折: NF80</span>',
-    info2: '三年付套餐 <span class="promo-text"> 6折: SN60</span>',
-    link: 'https://itheo.top/xdm',
-    rel: 'sponsored noreferrer'
-  },
-  {
     image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
     promo: '唯兔云(OnlyRabbit)特惠',
     info1: '全场套餐 <span class="promo-text"> 85折: hpny2026</span>',
@@ -113,6 +105,14 @@ export const Aside_Data: AsideItem = [
     info1: '月/季/半年付<span class="promo-text"> 85折: fb250085 </span>',
     info2: '年付以上<span class="promo-text"> 64折: fb250080 </span>',
     link: 'https://itheo.top/flyingbird',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/xdm_logo.webp',
+    promo: '星岛梦(StarDream)特惠',
+    info1: '年付套餐 <span class="promo-text"> 8折: NF80</span>',
+    info2: '三年付套餐 <span class="promo-text"> 6折: SN60</span>',
+    link: 'https://itheo.top/xdm',
     rel: 'sponsored noreferrer'
   },
   // {

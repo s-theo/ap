@@ -24,10 +24,10 @@ export const Footer_Data: FooterData = {
         { name: '龙猫云(TotoroCloud)', link: 'https://itheo.top/totoro', rel: 'sponsored noreferrer' },
         { name: '小蜜蜂(XmfWww)', link: 'https://itheo.top/bee', rel: 'sponsored noreferrer' },
         { name: 'OKANC', link: 'https://itheo.top/okanc', rel: 'sponsored noreferrer' },
-        { name: '星岛梦(StarDream)', link: 'https://itheo.top/xdm', rel: 'sponsored noreferrer' },
         { name: '唯兔云(OnlyRabbit)', link: 'https://itheo.top/onlyrabbit', rel: 'sponsored noreferrer' },
         { name: '奈云(NaiYun)', link: 'https://itheo.top/naiyun', rel: 'sponsored noreferrer' },
-        { name: '飞鸟机场(FlyingBird)', link: 'https://itheo.top/flyingbird', rel: 'sponsored noreferrer' }
+        { name: '飞鸟机场(FlyingBird)', link: 'https://itheo.top/flyingbird', rel: 'sponsored noreferrer' },
+        { name: '星岛梦(StarDream)', link: 'https://itheo.top/xdm', rel: 'sponsored noreferrer' }
       ]
     },
     {
