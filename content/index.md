@@ -62,7 +62,7 @@ features:
     link: /onlyrabbit
     linkText: 查看更多
 
-  - title: <img src="https://i.theojs.cn/logo/fclogo.webp" width="24" height="24" alt="FatCat Cloud - 肥猫云" />肥猫云(FatCatCloud)<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
+  - title: <img src="https://i.theojs.cn/logo/fclogo.webp" width="24" height="24" alt="FatCat Cloud - 肥猫云" />肥猫云(FatCatCloud)
     details: 企业级的IEPL（国际以太网专线）或IPLC（国际私用租用线路）内网专线进行数据传输 。能有效应对网络波动和高峰期拥堵。原生IP解锁流媒体，包括Netflix、Disney+、HBO、HUGO等等解锁Tiktok，解锁ChatGPT、Copilot、Gemini等AI工具全局负载均衡、动态加速晚高峰不限速，敏感期间不影响
     link: /fatcat
     linkText: 查看更多
