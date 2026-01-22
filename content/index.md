@@ -32,7 +32,7 @@ features:
     link: /galaxy
     linkText: 查看更多
 
-  - title: <img src="https://i.theojs.cn/logo/meile.webp" width="24" height="24" alt="美乐云 logo" />美乐云(MeiLe)<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
+  - title: <img src="https://i.theojs.cn/logo/meile.webp" width="24" height="24" alt="美乐云 logo" />美乐云(MeiLe)<span class="VPBadge tip small" aria-hidden="true">附折扣码</span><span class="VPBadge tip small" aria-hidden="true">注册试用</span>
     details: 美乐云为您提供优质快捷高速安全加密全球解锁服务，一键客户端注册即可快速试用！不稳定？卡顿？无法使用？其他产品的困扰，我们通通没有！当您正为其他服务频繁出错而烦恼时，我们承诺：稳定、可靠、随时可用！
     link: /meile
     linkText: 查看更多
@@ -52,7 +52,7 @@ features:
     link: /bee
     linkText: 查看更多
 
-  - title: <img src="https://i.theojs.cn/logo/okanc.webp" width="24" height="24" alt="OKANC logo" /> OKANC <span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
+  - title: <img src="https://i.theojs.cn/logo/okanc.webp" width="24" height="24" alt="OKANC logo" /> OKANC <span class="VPBadge tip small" aria-hidden="true">附折扣码</span><span class="VPBadge tip small" aria-hidden="true">注册试用</span>
     details: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！确保您在网络使用过程中享受到稳定、高速的连接。拥有香港、台湾、日本、马来、新加坡、美国、韩国、泰国、菲律宾、尼日利亚等多地区多节点。全节点专线，所有专线高峰时段不卡顿，让您畅享流畅的网络环境。
     link: /okanc
     linkText: 查看更多
@@ -67,7 +67,7 @@ features:
     link: /fatcat
     linkText: 查看更多
 
-  - title: <img src="https://i.theojs.cn/logo/naiyun_logo.webp" width="24" height="24" alt="奈云 logo" />奈云(NaiYun)<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
+  - title: <img src="https://i.theojs.cn/logo/naiyun_logo.webp" width="24" height="24" alt="奈云 logo" />奈云(NaiYun)<span class="VPBadge tip small" aria-hidden="true">附折扣码</span><span class="VPBadge tip small" aria-hidden="true">注册试用</span>
     details: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节点和Trojan节点，支持的付款方式有微信支付、支付宝，提供奈云机场官网、节点信息、机场参数、套餐价格、机场测速等信息。
     link: /naiyun
     linkText: 查看更多
