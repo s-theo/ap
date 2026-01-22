@@ -40,15 +40,18 @@ export const Footer_Data: FooterData = {
         { name: '银河录像局', link: 'https://itheo.top/yh', rel: 'sponsored noreferrer' },
         { name: 'Hero-SMS', link: 'https://itheo.top/sms', rel: 'sponsored noreferrer' }
       ]
+    },
+    {
+      icon: 'heroicons:link-16-solid',
+      title: '相关链接',
+      links: [
+        { name: '机场测评', link: '/qingyunti' },
+        { name: '机场汇总', link: '/summary' },
+        { name: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' },
+        { name: '科学上网软件使用指南', link: 'https://doc.theojs.cn/serve/antiwall/sunmmary' },
+        { name: '机场去哪儿', link: 'https://jichangdaohang.cc/' },
+        { name: 'Clash 节点分享机场推荐', link: 'https://lashvpns.com/' }
+      ]
     }
-    // {
-    //   icon: 'heroicons:link-16-solid',
-    //   title: '相关链接',
-    //   links: [
-    //     { name: '玄学宝典', link: 'https://xx.theojs.cn/' },
-    //     { name: 'VitePress', link: 'https://vitepress.dev/' },
-    //     { name: 'Lumen', link: 'https://lumen.theojs.cn/' }
-    //   ]
-    // }
   ]
 }

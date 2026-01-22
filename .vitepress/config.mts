@@ -28,7 +28,8 @@ export default defineConfig({
       { text: '机场汇总', link: '/summary', activeMatch: '^/summary' },
       { text: '流媒体合租', link: 'https://doc.theojs.cn/serve/sharing/account-sharing-guide' },
       { text: '科学上网软件使用指南', link: 'https://doc.theojs.cn/serve/antiwall/sunmmary' },
-      { text: '机场去哪儿', link: 'https://jichangdaohang.cc/' }
+      { text: '机场去哪儿', link: 'https://jichangdaohang.cc/' },
+      { text: 'Clash 节点分享机场推荐', link: 'https://lashvpns.com/' }
     ],
 
     socialLinks: [{ icon: 'telegram', link: 'https://t.me/s_theo', ariaLabel: 'Telegram' }],
