@@ -36,6 +36,7 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 |   [唯兔云(OnlyRabbit)](<#唯兔云(OnlyRabbit)>)   |     <Pill image="https://i.theojs.cn/logo/onlyrabbit_logo.webp" name="唯兔云官网" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" />     |    6元 45g/月    |   ✅   |    ✅    | [查看](./onlyrabbit.md) |
 |  [肥猫云(FatCatCloud)](<#肥猫云(FatCatCloud)>)  |           <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云官网" link="https://itheo.top/fatcat" rel="sponsored noreferrer" />            |    8元 60g/月    |   ❌   |    ✅    |   [查看](./fatcat.md)   |
 |         [奈云(NaiYun)](<#奈云(NaiYun)>)         |          <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />          |   10元 168g/月   |   ✅   |    ✅    |   [查看](./naiyun.md)   |
+|    [光年梯(LightYear)](<#光年梯(LightYear)>)    |      <Pill image="https://i.theojs.cn/logo/lightyear_logo.webp" name="光年梯官网" link="https://itheo.top/lightyear" rel="sponsored noreferrer" />      |   13元 110g/月   |   ✅   |    ✅    | [查看](./lightyear.md)  |
 | [飞鸟机场(FlyingBird)](<#飞鸟机场(FlyingBird)>) |     <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" />      |   12元 100g/月   |   ❌   |    ✅    | [查看](./flyingbird.md) |
 |    [星岛梦(StarDream)](<#星岛梦(StarDream)>)    |            <Pill image="https://i.theojs.cn/logo/xdm_logo.webp" name="星岛梦官网" link="https://itheo.top/xdm" rel="sponsored noreferrer" />            |   12元 100g/月   |   ✅   |    ✅    |    [查看](./xdm.md)     |
 
@@ -137,6 +138,14 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 
 ---
 
+### 光年梯(LightYear)
+
+<!--@include: ./lightyear.md#1-->
+<!--@include: ./lightyear.md#2-->
+<!--@include: ./lightyear.md#3-->
+
+---
+
 ### 飞鸟机场(FlyingBird)
 
 <!--@include: ./flyingbird.md#1-->
@@ -150,7 +159,3 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 <!--@include: ./xdm.md#1-->
 <!--@include: ./xdm.md#2-->
 <!--@include: ./xdm.md#3-->
-
-::: info 免责声明
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
-:::

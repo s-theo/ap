@@ -72,6 +72,11 @@ features:
     link: /naiyun
     linkText: 查看更多
 
+  - title: <img src="https://i.theojs.cn/logo/lightyear_logo.webp" width="24" height="24" alt="FlyingBird - 光年梯(LightYear) logo" />光年梯(LightYear)<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
+    details: 成立与2025年9月，新加坡海外团队大机房产品，性价比专线，24h在线客服，专业且靠谱稳定，任何线路问题都是1h内修复处理，支持退款。全球原生节点布局，覆盖 香港、台湾、日本、新加坡、美国 等数十地区，节点全面解锁国际流媒体与 AI 平台。想去哪儿，就去哪儿。
+    link: /lightyear
+    linkText: 查看更多
+
   - title: <img src="https://i.theojs.cn/logo/flyingbird.webp" width="24" height="24" alt="FlyingBird - 飞鸟机场 logo" />飞鸟机场(FlyingBird)<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
     details: 前身是多个老牌机场的融合衍生，主打快速稳定，全专线 IPLC，没有倍率，不限网速，不限客户端并且可以多用户同时使用。海外的 SS 机场，海外团队运营，全专线线路，支持全流媒体解锁，所有节点多服务器负载保证高速稳定。节点目前针对Netflix、Disney、HBO Max、HBO Go、Youtube、Spotify 等流媒体解锁，而且在稳定性方面有保障，速度更快。
     link: /flyingbird
