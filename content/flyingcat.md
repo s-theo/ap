@@ -1,6 +1,6 @@
 ---
 title: 飞猫云(FlyingCat)VPN官网注册地址｜真实测速｜价格与套餐详解
-description: 飞猫云(FlyingCat)VPN是IPLC专线，ss协议，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量，支持支付宝微信usdt
+description: 飞猫云(FlyingCat)VPN是IEPL/IPLC专线，ss协议，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量，支持支付宝微信usdt
 ---
 
 # 飞猫云(FlyingCat)VPN官网注册地址｜真实测速｜价格与套餐详解
@@ -50,8 +50,8 @@ description: 飞猫云(FlyingCat)VPN是IPLC专线，ss协议，解锁各大流�
 
 ::: tip
 
-<!-- - <Copy type="tip" label="点击复制 9 折折扣码: rabbit" text="rabbit" bold /> -->
-
+- 季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
+- <Copy type="tip" label="点击复制 85 折折扣码: KY85" text="KY85" bold />
 - **新手建议**：轻度使用选**星耀版**，日常流媒体与 AI 工具推荐**星环版 / 银河版**。
 
 :::
