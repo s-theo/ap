@@ -77,7 +77,7 @@ features:
     link: /lightyear
     linkText: 查看更多
 
-  - title: <img src="https://i.theojs.cn/logo/flyingcat_logo.webp" width="24" height="24" alt="飞猫云(FlyingCat) logo" />飞猫云(FlyingCat)
+  - title: <img src="https://i.theojs.cn/logo/flyingcat_logo.webp" width="24" height="24" alt="飞猫云(FlyingCat) logo" />飞猫云(FlyingCat)<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>
     details: 飞猫云(FlyingCat)VPN是IPLC专线，ss协议，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量，支持支付宝微信usdt
     link: /flyingcat
     linkText: 查看更多
