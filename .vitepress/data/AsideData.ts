@@ -177,6 +177,12 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/tnt',
   //   rel: 'sponsored noreferrer'
   // },
+  {
+    image: 'https://i.theojs.cn/logo/flyingcat_logo.webp',
+    promo: '飞猫云(FlyingCat)',
+    link: 'https://itheo.top/flyingcat',
+    rel: 'sponsored noreferrer'
+  },
   // {
   //   image: { src: 'https://i.theojs.cn/logo/xdm_logo.webp' },
   //   promo: '星岛梦(StarDream)',
