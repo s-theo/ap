@@ -1,11 +1,11 @@
 ---
-title: OKANC官网注册地址｜真实测速｜价格与套餐详解
-description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！
+title: OKANC VPN官网注册地址｜真实测速｜价格与套餐详解
+description: OKANC VPN采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 ---
 
-# OKANC官网注册地址｜真实测速｜价格与套餐详解
+# OKANC VPN官网注册地址｜真实测速｜价格与套餐详解
 
-## OKANC官网注册地址（稳定高速｜真实测速｜价格详解）
+## OKANC VPN官网注册地址（稳定高速｜真实测速｜价格详解）
 
 <!-- #region 1 -->
 
@@ -13,13 +13,13 @@ description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延�
 
 **注册试用: 5GB/24 小时**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC VPN官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
 <!-- #endregion 1 -->
 
-## OKANC是什么？适合哪些人使用（优缺点实测）
+## OKANC VPN是什么？适合哪些人使用（优缺点实测）
 
 <!-- #region 2 -->
 
@@ -38,7 +38,7 @@ OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值�
 - 海外团队，专业运营，全天候维护。
 <!-- #endregion 2 -->
 
-## OKANC价格与套餐对比（哪一档最划算？）
+## OKANC VPN价格与套餐对比（哪一档最划算？）
 
 <!-- #region 3 -->
 
@@ -59,7 +59,7 @@ OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值�
 
 <!-- #endregion 3 -->
 
-## OKANC真实测速图（高峰期表现实测）
+## OKANC VPN真实测速图（高峰期表现实测）
 
 ![OKANC 拓扑图 =688x](https://i.theojs.cn/airport/okanc_topology.webp)
 

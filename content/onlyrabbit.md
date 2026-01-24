@@ -1,23 +1,23 @@
 ---
-title: 唯兔云(OnlyRabbit)官网注册地址｜真实测速｜价格与套餐详解
-description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量，支持支付宝微信usdt
+title: 唯兔云(OnlyRabbit)VPN官网注册地址｜真实测速｜价格与套餐详解
+description: 唯兔云(OnlyRabbit)VPN是IPLC专线，Trojan协议，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量，支持支付宝微信usdt
 ---
 
-# 唯兔云(OnlyRabbit)官网注册地址｜真实测速｜价格与套餐详解
+# 唯兔云(OnlyRabbit)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-## 唯兔云(OnlyRabbit)官网注册地址（稳定高速｜真实测速｜价格详解）
+## 唯兔云(OnlyRabbit)VPN官网注册地址（稳定高速｜真实测速｜价格详解）
 
 <!-- #region 1 -->
 
 **最便宜的订阅有6元 45g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/onlyrabbit_logo.webp" name="唯兔云(OnlyRabbit)官网" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/onlyrabbit_logo.webp" name="唯兔云(OnlyRabbit)VPN官网" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
 <!-- #endregion 1 -->
 
-## 唯兔云(OnlyRabbit)是什么？适合哪些人使用（优缺点实测）
+## 唯兔云(OnlyRabbit)VPN是什么？适合哪些人使用（优缺点实测）
 
 <!-- #region 2 -->
 
@@ -40,7 +40,7 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 - 海外团队，专业运营，全天候维护。
 <!-- #endregion 2 -->
 
-## 唯兔云(OnlyRabbit)价格与套餐对比（哪一档最划算？）
+## 唯兔云(OnlyRabbit)VPN价格与套餐对比（哪一档最划算？）
 
 <!-- #region 3 -->
 
@@ -67,7 +67,7 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 <!-- #endregion 3 -->
 
-## 唯兔云(OnlyRabbit)真实测速图（高峰期表现实测）
+## 唯兔云(OnlyRabbit)VPN真实测速图（高峰期表现实测）
 
 ![唯兔云(OnlyRabbit) 拓扑图 =688x](https://i.theojs.cn/airport/onlyrabbit_analyze.webp)
 

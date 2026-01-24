@@ -1,23 +1,23 @@
 ---
-title: 光年梯(LightYear)官网注册地址｜真实测速｜价格与套餐详解
-description: 光年梯（LightYear）新加坡海外团队运营，IEPL 企业专线，全节点 x1 倍率，支持流媒体与 AI 全解锁，最低年付 13 元起，24h 客服在线，稳定高速，适合新手与长期使用。
+title: 光年梯(LightYear)VPN官网注册地址｜真实测速｜价格与套餐详解
+description: 光年梯（LightYear）VPN新加坡海外团队运营，IEPL 企业专线，全节点 x1 倍率，支持流媒体与 AI 全解锁，最低年付 13 元起，24h 客服在线，稳定高速，适合新手与长期使用。
 head:
   - - meta
     - property: og:image
       content: https://i.theojs.cn/logo/lightyear_logo.webp
 ---
 
-# 光年梯(LightYear)官网注册地址｜真实测速｜价格与套餐详解
+# 光年梯(LightYear)VPN官网注册地址｜真实测速｜价格与套餐详解
 
 <!-- ![光年梯(LightYear)og =370x](https://i.theojs.cn/logo/lightyear_logo.webp '光年梯(LightYear)') -->
 
-## 光年梯(LightYear)官网注册地址（稳定高速｜真实测速｜价格详解）
+## 光年梯(LightYear)VPN官网注册地址（稳定高速｜真实测速｜价格详解）
 
 <!-- #region 1 -->
 
 **最便宜的订阅有13元 110g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/lightyear_logo.webp" name="光年梯(LightYear)官网" link="https://itheo.top/lightyear" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/lightyear_logo.webp" name="光年梯(LightYear)VPN官网" link="https://itheo.top/lightyear" rel="sponsored noreferrer" />
 
 <Pill icon="logos:telegram" name="光年梯(LightYear)TG 频道" link="https://t.me/guangnianti" rel="noreferrer" />
 
@@ -25,7 +25,7 @@ head:
 
 <!-- #endregion 1 -->
 
-## 光年梯(LightYear)是什么？适合哪些人使用（优缺点实测）
+## 光年梯(LightYear)VPN是什么？适合哪些人使用（优缺点实测）
 
 <!-- #region 2 -->
 
@@ -46,7 +46,7 @@ head:
 
 <!-- #endregion 2 -->
 
-## 光年梯(LightYear)价格与套餐对比（哪一档最划算？）
+## 光年梯(LightYear)VPN价格与套餐对比（哪一档最划算？）
 
 <!-- #region 3 -->
 
@@ -69,7 +69,7 @@ head:
 
 <!-- #endregion 3 -->
 
-## 光年梯(LightYear)真实测速图（高峰期表现实测）
+## 光年梯(LightYear)VPN真实测速图（高峰期表现实测）
 
 ![光年梯(LightYear) 拓扑图 =688x](https://i.theojs.cn/airport/lightyear_analyze.webp)
 

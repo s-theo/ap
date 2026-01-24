@@ -1,23 +1,23 @@
 ---
-title: 极连云(HyperLink)官网注册地址｜真实测速｜价格与套餐详解
-description: 极连云(HyperLink)专注提供出海专线加速与流媒体解锁服务的网络“机场”品牌。采用企业级 IPLC／IEPL 专线，并结合智能负载均衡、三网入口优化，保障国内用户连接海外节点的速度和稳定性。
+title: 极连云(HyperLink)VPN官网注册地址｜真实测速｜价格与套餐详解
+description: 极连云(HyperLink)VPN专注提供出海专线加速与流媒体解锁服务的网络“机场”品牌。采用企业级 IPLC／IEPL 专线，并结合智能负载均衡、三网入口优化，保障国内用户连接海外节点的速度和稳定性。
 ---
 
-# 极连云(HyperLink)官网注册地址｜真实测速｜价格与套餐详解
+# 极连云(HyperLink)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-## 极连云(HyperLink)官网注册地址（当前可用｜稳定高速｜真实测速）
+## 极连云(HyperLink)VPN官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/hyperlink_logo.webp" name="极连云官网" link="https://itheo.top/hyperlink" rel="sponsored noreferrer"/>
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/hyperlink_logo.webp" name="极连云(HyperLink)VPN官网" link="https://itheo.top/hyperlink" rel="sponsored noreferrer"/>
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
 <!-- #endregion 1 -->
 
-## 极连云(HyperLink)是什么？适合哪些人使用（真实体验 + 优缺点）
+## 极连云(HyperLink)VPN是什么？适合哪些人使用（真实体验 + 优缺点）
 
 <!-- #region 2 -->
 
@@ -31,7 +31,7 @@ description: 极连云(HyperLink)专注提供出海专线加速与流媒体解�
 - 面向个人与家庭用户，同时也强调多设备支持，一次账号多端使用，无需为每台设备重复购买。
 <!-- #endregion 2 -->
 
-## 极连云(HyperLink)价格与套餐对比（性价比分析｜新手怎么选）
+## 极连云(HyperLink)VPN价格与套餐对比（性价比分析｜新手怎么选）
 
 <!-- #region 3 -->
 
@@ -60,7 +60,7 @@ description: 极连云(HyperLink)专注提供出海专线加速与流媒体解�
 
 <!-- #endregion 3 -->
 
-## 极连云(HyperLink)真实测速图（高峰期表现实测）
+## 极连云(HyperLink)VPN真实测速图（高峰期表现实测）
 
 ![极连云(HyperLink) 三网拓扑 =688x](https://i.theojs.cn/airport/hyperlink_topology.webp)
 

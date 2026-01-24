@@ -1,11 +1,11 @@
 ---
-title: 奈云(NaiYun)官网注册地址｜真实测速｜价格与套餐详解
-description: 奈云(NaiYun)机场成立于2021年，提供Shadowsocks节点和V2Ray节点和Trojan节点，支持的付款方式有微信支付、支付宝，提供奈云(NaiYun)机场官网、节点信息、机场参数、套餐价格、机场测速等信息。
+title: 奈云(NaiYun)VPN官网注册地址｜真实测速｜价格与套餐详解
+description: 奈云(NaiYun)VPN机场成立于2021年，提供Shadowsocks节点和V2Ray节点和Trojan节点，支持的付款方式有微信支付、支付宝，提供奈云(NaiYun)机场官网、节点信息、机场参数、套餐价格、机场测速等信息。
 ---
 
-# 奈云(NaiYun)官网注册地址｜真实测速｜价格与套餐详解
+# 奈云(NaiYun)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-## 奈云(NaiYun)官网注册地址（当前可用｜稳定高速｜真实测速）
+## 奈云(NaiYun)VPN官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
 
@@ -13,13 +13,13 @@ description: 奈云(NaiYun)机场成立于2021年，提供Shadowsocks节点和V2
 
 **注册试用: 6GB/12 小时**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云(NaiYun)官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云(NaiYun)VPN官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
 <!-- #endregion 1 -->
 
-## 奈云(NaiYun)是什么？适合哪些人使用（真实体验 + 优缺点）
+## 奈云(NaiYun)VPN是什么？适合哪些人使用（真实体验 + 优缺点）
 
 <!-- #region 2 -->
 
@@ -38,7 +38,7 @@ description: 奈云(NaiYun)机场成立于2021年，提供Shadowsocks节点和V2
 - 海外团队，专业运营，全天候维护。
 <!-- #endregion 2 -->
 
-## 奈云(NaiYun)价格与套餐对比（哪一档最划算？）
+## 奈云(NaiYun)VPN价格与套餐对比（哪一档最划算？）
 
 <!-- #region 3 -->
 
@@ -65,7 +65,7 @@ description: 奈云(NaiYun)机场成立于2021年，提供Shadowsocks节点和V2
 
 <!-- #endregion 3 -->
 
-## 奈云(NaiYun)真实测速图（高峰期表现实测）
+## 奈云(NaiYun)VPN真实测速图（高峰期表现实测）
 
 ![奈云(NaiYun) 拓扑图 =688x](https://i.theojs.cn/airport/naiyun_analyze.webp)
 

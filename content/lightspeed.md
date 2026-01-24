@@ -1,29 +1,29 @@
 ---
-title: 光速云(LightSpeed)官网注册地址｜真实测速｜价格与套餐详解
-description: lightspeed 光速云是一家专注于稳定 ·高速 · 专线 · 超高性价比的优质机场。支持多平台设备同时连接，解锁奈飞 Netflix、HBO Max、Disney+、YouTube、Amazon Prime Video等主流全球流媒体，拥有遍布全球的多个高质量节点，特别适用于出国访问、流媒体加速和网络隐私保护，确保连接安全稳定，体验流畅无卡顿。
+title: 光速云(LightSpeed)VPN官网注册地址｜真实测速｜价格与套餐详解
+description: 光速云(LightSpeed)VPN是一家专注于稳定 ·高速 · 专线 · 超高性价比的优质机场。支持多平台设备同时连接，解锁奈飞 Netflix、HBO Max、Disney+、YouTube、Amazon Prime Video等主流全球流媒体，拥有遍布全球的多个高质量节点，特别适用于出国访问、流媒体加速和网络隐私保护，确保连接安全稳定，体验流畅无卡顿。
 head:
   - - meta
     - property: og:image
       content: https://i.theojs.cn/logo/lightspeed_banner2.webp
 ---
 
-# 光速云(LightSpeed)官网注册地址｜真实测速｜价格与套餐详解
+# 光速云(LightSpeed)VPN官网注册地址｜真实测速｜价格与套餐详解
 
 ![光速云(LightSpeed)OG =488x](https://i.theojs.cn/logo/lightspeed_banner2.webp '光速云(LightSpeed)')
 
-## 光速云(LightSpeed)官网注册地址（当前可用｜稳定高速｜真实测速）
+## 光速云(LightSpeed)VPN官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
 
 **最便宜的订阅有8元 59g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/lightspeed_logo.webp" name="光速云官网" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/lightspeed_logo.webp" name="光速云(LightSpeed)VPN官网" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
 <!-- #endregion 1 -->
 
-## 光速云(LightSpeed)是什么？适合哪些人使用（真实体验 + 优缺点）
+## 光速云(LightSpeed)VPN是什么？适合哪些人使用（真实体验 + 优缺点）
 
 <!-- #region 2 -->
 
@@ -44,7 +44,7 @@ head:
 
 <!-- #endregion 2 -->
 
-## 光速云(LightSpeed)价格与套餐对比（性价比分析｜新手怎么选）
+## 光速云(LightSpeed)VPN价格与套餐对比（性价比分析｜新手怎么选）
 
 <!-- #region 3 -->
 
@@ -72,19 +72,12 @@ head:
 
 <!-- #endregion 3 -->
 
-## 光速云(LightSpeed)真实测速图（高峰期表现实测）
+## 光速云(LightSpeed)VPN真实测速图（高峰期表现实测）
 
 ![光速云(LightSpeed) 解锁图 =688x](https://i.theojs.cn/airport/lightspeed_unlock.webp)
 
 ![光速云(LightSpeed) 拓扑图 =688x](https://i.theojs.cn/airport/lightspeed_analyze.webp)
 
 ![光速云(LightSpeed) 广东联通晚高峰测速图 =688x](https://i.theojs.cn/airport/lightspeed_zhuhai_unicom.webp)
-
-<!--
-![光速云(LightSpeed) 广东移动晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_guangdong_mobile.webp)
-
-![光速云(LightSpeed) 湖北联通晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_hubei_unicom.webp)
-
-![光速云(LightSpeed) 江苏电信晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_jiangsu_telecom.webp) -->
 
 <!--@include: @/bottom.md-->
