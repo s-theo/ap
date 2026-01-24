@@ -65,8 +65,10 @@ description: 飞鸟机场(FlyingBird)提供高速稳定的科学上网服务，�
 
 ![飞鸟机场(FlyingBird) 拓扑图 =688x](https://i.theojs.cn/airport/flyingbird_topology.webp)
 
-![飞鸟机场(FlyingBird) 流媒体解锁图 =688x](https://i.theojs.cn/airport/flyingbird_unlock.webp)
+![飞鸟机场(FlyingBird) 北京移动晚高峰测速图 =688x](https://i.theojs.cn/airport/flyingbird_beijing_mobile.webp)
 
-![飞鸟机场(FlyingBird) 中山电信测速图 =688x](https://i.theojs.cn/airport/flyingbird_zhongshan_telecom.webp)
+![飞鸟机场(FlyingBird) 河南电信晚高峰测速图 =688x](https://i.theojs.cn/airport/flyingbird_henan_telecom.webp)
+
+![飞鸟机场(FlyingBird) 天津联通晚高峰测速图 =688x](https://i.theojs.cn/airport/flyingbird_tianjin_unicom.webp)
 
 <!--@include: @/bottom.md-->
