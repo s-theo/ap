@@ -32,7 +32,6 @@ export default defineConfig({
       { text: 'Clash 节点分享机场推荐', link: 'https://lashvpns.com/' }
     ],
 
-    socialLinks: [{ icon: 'telegram', link: 'https://t.me/s_theo', ariaLabel: 'Telegram' }],
     // 目录设置
     outline: 'deep', // 索引级别
     outlineTitle: '本页目录', // 目录文本
